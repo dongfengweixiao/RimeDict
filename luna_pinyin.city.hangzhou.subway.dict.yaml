@@ -1,0 +1,192 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime 词库扩展计划」
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.city.hangzhou.subway
+version: "2021.05.05"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+湘湖	xiang hu	1
+西兴	xi xing	1
+近江	jin jiang	1
+城站	cheng zhan	1
+彭埠	peng bu	1
+七堡	qi bao	1
+九堡	jiu bao	1
+云水	yun shui	1
+南阳	nan yang	1
+乔司	qiao si	1
+翁梅	weng mei	1
+南苑	nan yuan	1
+临平	lin ping	1
+良渚	liang zhu	1
+白洋	bai yang	1
+三墩	san dun	1
+三坝	san ba	1
+文新	wen xin	1
+潘水	pan shui	1
+朝阳	zhao yang	1
+浦沿	pu yan	1
+联庄	lian zhuang	1
+景芳	jing fang	1
+新塘	xin tang	1
+新风	xin feng	1
+双桥	shuang qiao	1
+长河	chang he	1
+杭氧	hang yang	1
+善贤	shan xian	1
+和睦	he mu	1
+蒋村	jiang cun	1
+五常	wu chang	1
+永福	yong fu	1
+葛巷	ge xiang	1
+金星	jin xing	1
+双浦	shuang pu	1
+星民	xing min	1
+中村	zhong cun	1
+银湖	yin hu	1
+受降	shou jiang	1
+高桥	gao qiao	1
+新桥	xin qiao	1
+兴议	xing yi	1
+新街	xin jie	1
+盈中	ying zhong	1
+坎山	kan shan	1
+新港	xin gang	1
+义蓬	yi peng	1
+南峰	nan feng	1
+南湖	nan hu	1
+中泰	zhong tai	1
+滨康路	bin kang lu	1
+滨和路	bin he lu	1
+江陵路	jiang ling lu	1
+婺江路	wu jiang lu	1
+定安路	ding an lu	1
+龙翔桥	long xiang qiao	1
+凤起路	feng qi lu	1
+打铁关	da tie guan	1
+闸弄口	zha nong kou	1
+九和路	jiu he lu	1
+下沙西	xia sha xi	1
+金沙湖	jin sha hu	1
+高沙路	gao sha lu	1
+文泽路	wen ze lu	1
+向阳路	xiang yang lu	1
+乔司南	qiao si nan	1
+杜甫村	du fu cun	1
+金家渡	jin jia du	1
+墩祥街	dun xiang jie	1
+虾龙圩	xia long wei	1
+丰潭路	feng tan lu	1
+古翠路	gu cui lu	1
+学院路	xue yuan lu	1
+下宁桥	xia ning qiao	1
+沈塘桥	shen tang qiao	1
+武林门	wu lin men	1
+庆菱路	qing ling lu	1
+钱江路	qian jiang lu	1
+盈丰路	ying feng lu	1
+飞虹路	fei hong lu	1
+振宁路	zhen ning lu	1
+杭发厂	hang fa chang	1
+人民路	ren min lu	1
+曹家桥	cao jia qiao	1
+杨家墩	yang jia dun	1
+水澄桥	shui cheng qiao	1
+复兴路	fu xing lu	1
+南星桥	nan xing qiao	1
+甬江路	yong jiang lu	1
+城星路	cheng xing lu	1
+江锦路	jiang jin lu	1
+姑娘桥	gu niang qiao	1
+金鸡路	jin ji lu	1
+博奥路	bo ao lu	1
+江晖路	jiang hui lu	1
+聚才路	ju cai lu	1
+候潮门	hou chao men	1
+江城路	jiang cheng lu	1
+万安桥	wan an qiao	1
+西文街	xi wen jie	1
+大运河	da yun he	1
+萍水街	ping shui jie	1
+良睦路	liang mu lu	1
+创景路	chuang jing lu	1
+绿汀路	lv ting lu	1
+霞鸣街	xia ming jie	1
+科海路	ke hai lu	1
+江汉路	jiang han lu	1
+建业路	jian ye lu	1
+诚业路	cheng ye lu	1
+伟业路	wei ye lu	1
+西浦路	xi pu lu	1
+虎啸杏	hu xiao xing	1
+公望街	gong wang jie	1
+明星路	ming xing lu	1
+新兴路	xin xing lu	1
+新汉路	xin han lu	1
+合欢路	he huan lu	1
+永盛路	yong sheng lu	1
+新镇路	xin zhen lu	1
+塘新线	tang xin xian	1
+启成路	qi cheng lu	1
+九州街	jiu zhou jie	1
+青山湖	qing shan hu	1
+八百里	ba bai li	1
+禹航路	yu hang lu	1
+凤新路	feng xin lu	1
+建国路	jian guo lu	1
+中河路	zhong he lu	1
+文三路	wen san lu	1
+保俶路	bao chu lu	1
+武林广场	wu lin guang chang	1
+火车东站	huo che dong zhan	1
+客运中心	ke yun zhong xin	1
+文海南路	wen hai nan lu	1
+下沙江滨	xia sha jiang bin	1
+港城大道	gang cheng da dao	1
+中河北路	zhong he bei lu	1
+建国北路	jian guo bei lu	1
+庆春广场	qing chun guang chang	1
+建设三路	jian she san lu	1
+建设一路	jian she yi lu	1
+人民广场	ren min guang chang	1
+市民中心	shi min zhong xin	1
+火车南站	huo che nan zhan	1
+通惠中路	tong hui zhong lu	1
+育才北路	yu cai bei lu	1
+香积寺路	xiang ji si lu	1
+拱宸桥东	gong chen qiao dong	1
+美院象山	mei yuan xiang shan	1
+博览中心	bo lan zhong xin	1
+奥体中心	ao ti zhong xin	1
+枫桦西路	feng hua xi lu	1
+音乐学院	yin yue xue yuan	1
+桂花西路	gui hua xi lu	1
+青六中路	qing liu zhong lu	1
+江东二路	jiang dong er lu	1
+临安广场	lin an guang chang	1
+农林大学	nong lin da xue	1
+余杭高铁站	yu hang gao tie zhan	1
+钱江世纪城	qian jiang shi ji cheng	1
+中医药大学	zhong yi yao da xue	1
+浙大紫金港	zhe da zi jin gang	1
+杭师大仓前	hang shi da cang qian	1
+西湖文化广场	xi hu wen hua guang chang	1
+萧山国际机场	xiao shan guo ji ji chang	1
+野生动物园东	ye sheng dong wu yuan dong	1
+富阳客运中心	fu yang ke yun zhong xin	1
+青山湖科技城	qing shan hu ke ji cheng	1
+杭州大会展中心	hang zhou da hui zhan zhong xin	1
