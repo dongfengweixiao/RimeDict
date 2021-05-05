@@ -10,4 +10,5 @@ use_preset_vocabulary: true
 import_tables:
   - luna_pinyin
   - luna_pinyin.city.beijing.subway                             # 城市计划 - 北京   - 地铁
+  - luna_pinyin.city.beijing.bus                                # 城市计划 - 北京   - 公交
 ...
