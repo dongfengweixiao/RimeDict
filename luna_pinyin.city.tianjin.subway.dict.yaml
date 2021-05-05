@@ -1,0 +1,188 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime 词库扩展计划」
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.city.tianjin.subway
+version: "2021.05.05"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+刘园	liu yuan	1
+西站	xi zhan	1
+南楼	nan lou	1
+土城	tu cheng	1
+双林	shuang lin	1
+李楼	li lou	1
+曹庄	cao zhuang	1
+卞兴	bian xing	1
+鼓楼	gu lou	1
+南站	nan zhan	1
+华苑	hua yuan	1
+天塔	tian ta	1
+北站	bei zhan	1
+小淀	xiao dian	1
+直沽	zhi gu	1
+天拖	tian tuo	1
+新立	xin li	1
+泰达	tai da	1
+青光	qing guang	1
+佳园里	jia yuan li	1
+本溪路	ben xi lu	1
+勤俭道	qin jian dao	1
+洪湖里	hong hu li	1
+西北角	xi bei jiao	1
+西南角	xi nan jiao	1
+二纬路	er wei lu	1
+海光寺	hai guang si	1
+鞍山道	an shan dao	1
+营口道	ying kou dao	1
+小白楼	xiao bai lou	1
+下瓦房	xia wa fang	1
+陈塘庄	chen tang zhuang	1
+复兴门	fu xing men	1
+华山里	hua shan li	1
+高庄子	gao zhuang zi	1
+北洋村	bei yang cun	1
+国展路	guo zhan lu	1
+东沽路	dong gu lu	1
+咸阳路	xian yang lu	1
+东南角	dong nan jiao	1
+建国道	jian guo dao	1
+天津站	tian jin zhan	1
+顺驰桥	shun chi qiao	1
+靖江路	jing jiang lu	1
+屿东城	yu dong cheng	1
+登州路	deng zhou lu	1
+国山路	guo shan lu	1
+杨伍庄	yang wu zhuang	1
+高新区	gao xin qu	1
+大学城	da xue cheng	1
+王顶堤	wang ding di	1
+吴家窑	wu jia yao	1
+西康路	xi kang lu	1
+和平路	he ping lu	1
+金狮桥	jin shi qiao	1
+中山路	zhong shan lu	1
+铁东路	tie dong lu	1
+张兴庄	zhang xing zhuang	1
+宜兴埠	yi xing bu	1
+天士力	tian shi li	1
+丰产河	feng chan he	1
+北辰道	bei chen dao	1
+淮河道	huai he dao	1
+志成路	zhi cheng lu	1
+思源路	si yuan lu	1
+建昌道	jian chang dao	1
+月牙河	yue ya he	1
+成林道	cheng lin dao	1
+津塘路	jin tang lu	1
+西南楼	xi nan lou	1
+凌宾路	ling bin lu	1
+昌凌路	chang ling lu	1
+南孙庄	nan sun zhuang	1
+南何庄	nan he zhuang	1
+大毕庄	da bi zhuang	1
+金钟街	jin zhong jie	1
+徐庄子	xu zhuang zi	1
+民权门	min quan men	1
+新开河	xin kai he	1
+天泰路	tian tai lu	1
+北竹林	bei zhu lin	1
+复兴路	fu xing lu	1
+宜宾道	yi bin dao	1
+迎风道	ying feng dao	1
+南翠屏	nan cui ping	1
+乐园道	le yuan dao	1
+尖山路	jian shan lu	1
+梅江道	mei jiang dao	1
+左江道	zuo jiang dao	1
+洞庭路	dong ting lu	1
+梅林路	mei lin lu	1
+大王庄	da wang zhuang	1
+东兴路	dong xing lu	1
+中山门	zhong shan men	1
+一号桥	yi hao qiao	1
+二号桥	er hao qiao	1
+张贵庄	zhang gui zhuang	1
+小东庄	xiao dong zhuang	1
+军粮城	jun liang cheng	1
+胡家园	hu jia yuan	1
+塘沽站	tang gu zhan	1
+太湖路	tai hu lu	1
+东海路	dong hai lu	1
+韩家墅	han jia shu	1
+杨家嘴	yang jia zui	1
+辰盛路	chen sheng lu	1
+千里堤	qian li di	1
+西青道	xi qing dao	1
+三元村	san yuan cun	1
+小西关	xiao xi guan	1
+南头窑	nan tou yao	1
+大胡同	da hu tong	1
+东北角	dong bei jiao	1
+金纬路	jin wei lu	1
+华龙道	hua long dao	1
+唐家口	tang jia kou	1
+友谊路	you yi lu	1
+梅江南	mei jiang nan	1
+水晶城	shui jing cheng	1
+倪黄庄	ni huang zhuang	1
+瑞景新苑	rui jing xin yuan	1
+财经大学	cai jing da xue	1
+芥园西道	jie yuan xi dao	1
+长虹公园	chang hong gong yuan	1
+翠阜新村	cui fu xin cun	1
+红旗南路	hong qi nan lu	1
+津湾广场	jin wan guang chang	1
+华北集团	hua bei ji tuan	1
+丹河北道	dan he bei dao	1
+职业大学	zhi ye da xue	1
+辽河北道	liao he bei dao	1
+宜兴埠北	yi xing bu bei	1
+幸福公园	xing fu gong yuan	1
+文化中心	wen hua zhong xin	1
+天津宾馆	tian jin bin guan	1
+肿瘤医院	zhong liu yi yuan	1
+体育中心	ti yu zhong xin	1
+北宁公园	bei ning gong yuan	1
+外院附中	wai yuan fu zhong	1
+人民医院	ren min yi yuan	1
+鞍山西道	an shan xi dao	1
+黑牛城道	hei niu cheng dao	1
+梅江公园	mei jiang gong yuan	1
+解放南路	jie fang nan lu	1
+十一经路	shi yi jing lu	1
+钢管公司	gang guan gong si	1
+市民广场	shi min guang chang	1
+会展中心	hui zhan zhong xin	1
+水木天成	shui mu tian cheng	1
+华昌大街	hua chang da jie	1
+外语学院	wai yu xue yuan	1
+银河广场	yin he guang chang	1
+广开四马路	guang kai si ma lu	1
+空港经济区	kong gang jing ji qu	1
+学府工业区	xue fu gong ye qu	1
+周邓纪念馆	zhou deng ji nian guan	1
+金钟河大街	jin zhong he da jie	1
+中医一附院	zhong yi yi fu yuan	1
+一中心医院	yi zhong xin yi yuan	1
+东丽开发区	dong li kai fa qu	1
+远洋国际中心	yuan yang guo ji zhong xin	1
+滨海国际机场	bin hai guo ji ji chang	1
+北辰科技园北	bei chen ke ji yuan bei	1
+水上公园东路	shui shang gong yuan dong lu	1
+梅江会展中心	mei jiang hui zhan zhong xin	1
+大寺龙居花园	da si long ju hua yuan	1
+平津战役纪念馆	ping jin zhan yi ji nian guan	1
