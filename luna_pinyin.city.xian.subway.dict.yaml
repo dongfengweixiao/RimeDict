@@ -1,0 +1,206 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime 词库扩展计划」
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.city.xian.subway
+version: "2021.05.05"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+北槐	bei huai	1
+三桥	san qiao	1
+皂河	zao he	1
+枣园	zao yuan	1
+浐河	chan he	1
+半坡	ban po	1
+北苑	bei yuan	1
+钟楼	zhong lou	1
+小寨	xiao zhai	1
+三爻	san yao	1
+小寨	xiao zhai	1
+务庄	wu zhuang	1
+双寨	shuang zhai	1
+新筑	xin zhu	1
+钓台	diao tai	1
+高桥	gao qiao	1
+镐京	gao jing	1
+斗门	dou men	1
+王寺	wang si	1
+仁村	ren cun	1
+香王	xiang wang	1
+田王	tian wang	1
+洪庆	hong qing	1
+秦宫	qin gong	1
+长陵	zhang ling	1
+三爻	san yao	1
+寒窑	han yao	1
+上林路	shang lin lu	1
+后卫寨	hou wei zhai	1
+汉城路	han cheng lu	1
+开远门	kai yuan men	1
+劳动路	lao dong lu	1
+玉祥门	yu xiang men	1
+洒金桥	sa jin qiao	1
+北大街	bei da jie	1
+五路口	wu lu kou	1
+朝阳门	zhao yang men	1
+康复路	kang fu lu	1
+通化门	tong hua men	1
+万寿路	wan shou lu	1
+长乐坡	zhang le po	1
+纺织城	fang zhi cheng	1
+北客站	bei ke zhan	1
+龙首原	long shou yuan	1
+安远门	an yuan men	1
+北大街	bei da jie	1
+永宁门	yong ning men	1
+南稍门	nan shao men	1
+体育场	ti yu chang	1
+纬一街	wei yi jie	1
+凤栖原	feng qi yuan	1
+航天城	hang tian cheng	1
+韦曲南	wei qu nan	1
+鱼化寨	yu hua zhai	1
+延平门	yan ping men	1
+科技路	ke ji lu	1
+吉祥村	ji xiang cun	1
+大雁塔	da yan ta	1
+北池头	bei chi tou	1
+青龙寺	qing long si	1
+延兴门	yan xing men	1
+咸宁路	xian ning lu	1
+通化门	tong hua men	1
+胡家庙	hu jia miao	1
+石家街	shi jia jie	1
+辛家庙	xin jia miao	1
+广泰门	guang tai men	1
+桃花潭	tao hua tan	1
+香湖湾	xiang hu wan	1
+保税区	bao shui qu	1
+北客站	bei ke zhan	1
+元朔路	yuan shuo lu	1
+文景路	wen jing lu	1
+常青路	chang qing lu	1
+百花村	bai hua cun	1
+余家寨	yu jia zhai	1
+大明宫	da ming gong	1
+含元殿	han yuan dian	1
+五路口	wu lu kou	1
+大差市	da cha shi	1
+和平门	he ping men	1
+李家村	li jia cun	1
+大雁塔	da yan ta	1
+金滹沱	jin hu tuo	1
+飞天路	fei tian lu	1
+创新港	chuang xin gang	1
+东马坊	dong ma fang	1
+文教园	wen jiao yuan	1
+欢乐谷	huan le gu	1
+西窑头	xi yao tou	1
+金光门	jin guang men	1
+边家村	bian jia cun	1
+黄雁村	huang yan cun	1
+南稍门	nan shao men	1
+文艺路	wen yi lu	1
+李家村	li jia cun	1
+太乙路	tai yi lu	1
+青龙寺	qing long si	1
+黄渠头	huang qu tou	1
+马腾空	ma teng kong	1
+郭杜西	guo du xi	1
+造字台	zao zi tai	1
+木塔寺	mu ta si	1
+甘家寨	gan jia zhai	1
+科技路	ke ji lu	1
+纺织城	fang zhi cheng	1
+凤凰池	feng huang chi	1
+西科大	xi ke da	1
+西花园	xi hua yuan	1
+华清池	hua qing chi	1
+东三岔	dong san cha	1
+秦陵西	qin ling xi	1
+北客站	bei ke zhan	1
+渭河南	wei he nan	1
+摆旗寨	bai qi zhai	1
+机场西	ji chang xi	1
+凤栖原	feng qi yuan	1
+航天城	hang tian cheng	1
+韦曲南	wei qu nan	1
+大雁塔	da yan ta	1
+唐城墙	tang cheng qiang	1
+曲江池	qu jiang chi	1
+运动公园	yun dong gong yuan	1
+行政中心	xing zheng zhong xin	1
+凤城五路	feng cheng wu lu	1
+市图书馆	shi tu shu guan	1
+大明宫西	da ming gong xi	1
+会展中心	hui zhan zhong xin	1
+丈八北路	zhang ba bei lu	1
+太白南路	tai bai nan lu	1
+长乐公园	zhang le gong yuan	1
+浐灞中心	chan ba zhong xin	1
+凤城九路	feng cheng jiu lu	1
+行政中心	xing zheng zhong xin	1
+大明宫北	da ming gong bei	1
+曲江池西	qu jiang chi xi	1
+航天大道	hang tian da dao	1
+东长安街	dong chang an jie	1
+神州大道	shen zhou da dao	1
+航天东路	hang tian dong lu	1
+航天新城	hang tian xin cheng	1
+创新港东	chuang xin gang dong	1
+翱翔小镇	ao xiang xiao zhen	1
+阿房宫南	a fang gong nan	1
+石桥立交	shi qiao li jiao	1
+汉城南路	han cheng nan lu	1
+丰庆公园	feng qing gong yuan	1
+西部大道	xi bu da dao	1
+西太路口	xi tai lu kou	1
+丈八六路	zhang ba liu lu	1
+丈八四路	zhang ba si lu	1
+丈八一路	zhang ba yi lu	1
+省体育馆	sheng ti yu guan	1
+灞柳二路	ba liu er lu	1
+紫霞三路	zi xia san lu	1
+芷阳广场	zhi yang guang chang	1
+西工程大	xi gong cheng da	1
+临潼校区	lin tong xiao qu	1
+银桥大道	yin qiao da dao	1
+秦汉新城	qin han xin cheng	1
+艺术中心	yi shu zhong xin	1
+空港新城	kong gang xin cheng	1
+会展中心	hui zhan zhong xin	1
+沣东自贸园	feng dong zi mao yuan	1
+国际港务区	guo ji gang wu qu	1
+凤城十二路	feng cheng shi er lu	1
+市中医医院	shi zhong yi yi yuan	1
+大唐芙蓉园	da tang fu rong yuan	1
+复兴大道南	fu xing da dao nan	1
+省人民医院	sheng ren min yi yuan	1
+雁翔路北口	yan xiang lu bei kou	1
+鹦鹉寺公园	ying wu si gong yuan	1
+大唐不夜城	da tang bu ye cheng	1
+大唐芙蓉园	da tang fu rong yuan	1
+沣河森林公园	feng he sen lin gong yuan	1
+建筑科技大学	jian zhu ke ji da xue	1
+西安科技大学	xi an ke ji da xue	1
+沣西文化公园	feng xi wen hua gong yuan	1
+西北工业大学	xi bei gong ye da xue	1
+建筑科技大学	jian zhu ke ji da xue	1
+西北工业大学	xi bei gong ye da xue	1
+秦二世皇帝陵	qin er shi huang di ling	1
+曲江海洋世界	qu jiang hai yang shi jie	1
+理工大曲江校区	li gong da qu jiang xiao qu	1
+西安国际医学中心	xi an guo ji yi xue zhong xin	1
