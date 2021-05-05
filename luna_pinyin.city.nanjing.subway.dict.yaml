@@ -1,0 +1,374 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime 词库扩展计划」
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.city.nanjing.subway
+version: "2021.05.05"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+鼓楼	gu lou	1
+元通	yuan tong	1
+马群	ma qun	1
+林场	lin chang	1
+小市	xiao shi	1
+新庄	xin zhuang	1
+浮桥	fu qiao	1
+孟北	meng bei	1
+东流	dong liu	1
+灵山	ling shan	1
+徐庄	xu zhuang	1
+鼓楼	gu lou	1
+南艺	nan yi	1
+二师	er shi	1
+龙江	long jiang	1
+小行	xiao hang	1
+中胜	zhong sheng	1
+元通	yuan tong	1
+临江	lin jiang	1
+林山	lin shan	1
+双垅	shuang long	1
+刘村	liu cun	1
+天保	tian bao	1
+贾西	jia xi	1
+柘塘	zhe tang	1
+群力	qun li	1
+溧水	li shui	1
+幸庄	xing zhuang	1
+大厂	da chang	1
+葛塘	ge tang	1
+长芦	zhang lu	1
+龙池	long chi	1
+雄州	xiong zhou	1
+沈桥	shen qiao	1
+铜山	tong shan	1
+石湫	shi qiu	1
+明觉	ming jiao	1
+高淳	gao chun	1
+下关	xia guan	1
+虹桥	hong qiao	1
+夹岗	jia gang	1
+秣陵	mo ling	1
+铜井	tong jing	1
+江宁	jiang ning	1
+板桥	ban qiao	1
+小行	xiao hang	1
+灵山	ling shan	1
+仙林	xian lin	1
+下关	xia guan	1
+中保	zhong bao	1
+黄里	huang li	1
+桥林	qiao lin	1
+林东	lin dong	1
+浮桥	fu qiao	1
+马标	ma biao	1
+长巷	zhang xiang	1
+杨庄	yang zhuang	1
+玉带	yu dai	1
+雄州	xiong zhou	1
+白象	bai xiang	1
+栖霞	qi xia	1
+宝华	bao hua	1
+龙潭	long tan	1
+东流	dong liu	1
+汤泉	tang quan	1
+汤山	tang shan	1
+万安	wan an	1
+上峰	shang feng	1
+马群	ma qun	1
+定林	ding lin	1
+建南	jian nan	1
+南庆	nan qing	1
+上坊	shang fang	1
+马群	ma qun	1
+古泉	gu quan	1
+汤山	tang shan	1
+黄梅	huang mei	1
+华阳	hua yang	1
+崇明	chong ming	1
+句容	ju rong	1
+迈皋桥	mai gao qiao	1
+南京站	nan jing zhan	1
+玄武门	xuan wu men	1
+珠江路	zhu jiang lu	1
+新街口	xin jie kou	1
+张府园	zhang fu yuan	1
+三山街	san shan jie	1
+中华门	zhong hua men	1
+安德门	an de men	1
+天隆寺	tian long si	1
+花神庙	hua shen miao	1
+河定桥	he ding qiao	1
+胜太路	sheng tai lu	1
+百家湖	bai jia hu	1
+小龙湾	xiao long wan	1
+竹山路	zhu shan lu	1
+南医大	nan yi da	1
+油坊桥	you fang qiao	1
+奥体东	ao ti dong	1
+云锦路	yun jin lu	1
+莫愁湖	mo chou hu	1
+汉中门	han zhong men	1
+上海路	shang hai lu	1
+新街口	xin jie kou	1
+大行宫	da xing gong	1
+西安门	xi an men	1
+明故宫	ming gu gong	1
+苜蓿园	mu xu yuan	1
+下马坊	xia ma fang	1
+孝陵卫	xiao ling wei	1
+钟灵街	zhong ling jie	1
+金马路	jin ma lu	1
+仙鹤门	xian he men	1
+学则路	xue ze lu	1
+经天路	jing tian lu	1
+星火路	xing huo lu	1
+泰冯路	tai feng lu	1
+天润城	tian run cheng	1
+上元门	shang yuan men	1
+南京站	nan jing zhan	1
+鸡鸣寺	ji ming si	1
+大行宫	da xing gong	1
+常府街	chang fu jie	1
+夫子庙	fu zi miao	1
+武定门	wu ding men	1
+雨花门	yu hua men	1
+卡子门	ka zi men	1
+大明路	da ming lu	1
+九龙湖	jiu long hu	1
+仙林湖	xian lin hu	1
+汇通路	hui tong lu	1
+金马路	jin ma lu	1
+聚宝山	ju bao shan	1
+王家湾	wang jia wan	1
+蒋王庙	jiang wang miao	1
+岗子村	gang zi cun	1
+九华山	jiu hua shan	1
+鸡鸣寺	ji ming si	1
+云南路	yun nan lu	1
+草场门	cao chang men	1
+安德门	an de men	1
+绿博园	lv bo yuan	1
+江心洲	jiang xin zhou	1
+龙华路	long hua lu	1
+文德路	wen de lu	1
+雨山路	yu shan lu	1
+翠屏山	cui ping shan	1
+高家冲	gao jia chong	1
+石碛河	shi qi he	1
+兰花塘	lan hua tang	1
+马骡圩	ma luo wei	1
+高庙路	gao miao lu	1
+吴侯街	wu hou jie	1
+永初路	yong chu lu	1
+油坊桥	you fang qiao	1
+春江路	chun jiang lu	1
+铁心桥	tie xin qiao	1
+卧龙湖	wo long hu	1
+中山湖	zhong shan hu	1
+无想山	wu xiang shan	1
+泰冯路	tai feng lu	1
+卸甲甸	xie jia dian	1
+化工园	hua gong yuan	1
+八百桥	ba bai qiao	1
+金牛湖	jin niu hu	1
+团结圩	tuan jie wei	1
+方家营	fang jia ying	1
+建宁路	jian ning lu	1
+盐仓桥	yan cang qiao	1
+福建路	fu jian lu	1
+山西路	shan xi lu	1
+云南路	yun nan lu	1
+五台山	wu tai shan	1
+上海路	shang hai lu	1
+朝天宫	chao tian gong	1
+三山街	san shan jie	1
+夫子庙	fu zi miao	1
+大中桥	da zhong qiao	1
+光华门	guang hua men	1
+小天堂	xiao tian tang	1
+七桥瓮	qi qiao weng	1
+大校场	da xiao chang	1
+岔路口	cha lu kou	1
+城北路	cheng bei lu	1
+新亭路	xin ting lu	1
+竹山路	zhu shan lu	1
+科宁路	ke ning lu	1
+清水亭	qing shui ting	1
+将军路	jiang jun lu	1
+新生圩	xin sheng wei	1
+万寿村	wan shou cun	1
+富贵山	fu gui shan	1
+明故宫	ming gu gong	1
+光华门	guang hua men	1
+将军路	jiang jun lu	1
+翔凤路	xiang feng lu	1
+板桥南	ban qiao nan	1
+板桥北	ban qiao bei	1
+西善桥	xi shan qiao	1
+油坊桥	you fang qiao	1
+中华门	zhong hua men	1
+雨花门	yu hua men	1
+康安里	kang an li	1
+小天堂	xiao tian tang	1
+胜利村	sheng li cun	1
+双拜岗	shuang bai gang	1
+沧波门	cang bo men	1
+芝嘉路	zhi jia lu	1
+麒麟镇	qi lin zhen	1
+仙新路	xian xin lu	1
+曹后村	cao hou cun	1
+南京站	nan jing zhan	1
+城河村	cheng he cun	1
+定淮门	ding huai men	1
+管子桥	guan zi qiao	1
+清河路	qing he lu	1
+绿博园	lv bo yuan	1
+滨江村	bin jiang cun	1
+红河路	hong he lu	1
+运河路	yun he lu	1
+黄河路	huang he lu	1
+恒河路	heng he lu	1
+油坊桥	you fang qiao	1
+兴梅路	xing mei lu	1
+乐山路	le shan lu	1
+管子桥	guan zi qiao	1
+嫩江路	nen jiang lu	1
+清凉山	qing liang shan	1
+广州路	guang zhou lu	1
+五台山	wu tai shan	1
+珠江路	zhu jiang lu	1
+明故宫	ming gu gong	1
+月牙湖	yue ya hu	1
+后标营	hou biao ying	1
+胜利村	sheng li cun	1
+大里墅	da li shu	1
+大里村	da li cun	1
+仙新路	xian xin lu	1
+新生圩	xin sheng wei	1
+陈家庄	chen jia zhuang	1
+灵岩山	ling yan shan	1
+机场路	ji chang lu	1
+经天路	jing tian lu	1
+仙林东	xian lin dong	1
+侯家塘	hou jia tang	1
+湾营路	wan ying lu	1
+大里墅	da li shu	1
+万安路	wan an lu	1
+文靖路	wen jing lu	1
+金箔路	jin bo lu	1
+成山路	cheng shan lu	1
+新亭路	xin ting lu	1
+杨家圩	yang jia wei	1
+胜太路	sheng tai lu	1
+静淮街	jing huai jie	1
+百水桥	bai shui qiao	1
+麒麟门	qi lin men	1
+童世界	tong shi jie	1
+软件大道	ruan jian da dao	1
+南京南站	nan jing nan zhan	1
+双龙大道	shuang long da dao	1
+天印大道	tian yin da dao	1
+龙眠大道	long mian da dao	1
+南京交院	nan jing jiao yuan	1
+雨润大街	yu run da jie	1
+兴隆大街	xing long da jie	1
+仙林中心	xian lin zhong xin	1
+羊山公园	yang shan gong yuan	1
+柳洲东路	liu zhou dong lu	1
+五塘广场	wu tang guang chang	1
+明发广场	ming fa guang chang	1
+南京南站	nan jing nan zhan	1
+宏运大道	hong yun da dao	1
+胜太西路	sheng tai xi lu	1
+天元西路	tian yuan xi lu	1
+诚信大道	cheng xin da dao	1
+秣周东路	mo zhou dong lu	1
+西岗桦墅	xi gang hua shu	1
+苏宁总部	su ning zong bu	1
+奥体中心	ao ti zhong xin	1
+梦都大街	meng dou da jie	1
+南京南站	nan jing nan zhan	1
+吉印大道	ji yin da dao	1
+正方中路	zheng fang zhong lu	1
+翔宇路北	xiang yu lu bei	1
+翔宇路南	xiang yu lu nan	1
+禄口机场	lu kou ji chang	1
+桥林新城	qiao lin xin cheng	1
+平良大街	ping liang da jie	1
+景明佳园	jing ming jia yuan	1
+南京南站	nan jing nan zhan	1
+泰山新村	tai shan xin cun	1
+方州广场	fang zhou guang chang	1
+翔宇路南	xiang yu lu nan	1
+上元大街	shang yuan da jie	1
+诚信大道	cheng xin da dao	1
+双龙大道	shuang long da dao	1
+营苑南路	ying yuan nan lu	1
+长途东站	chang tu dong zhan	1
+省经干院	sheng jing gan yuan	1
+大校场路	da xiao chang lu	1
+南京南站	nan jing nan zhan	1
+正德学院	zheng de xue yuan	1
+佛城西路	fo cheng xi lu	1
+禄口新城	lu kou xin cheng	1
+禄口机场	lu kou ji chang	1
+凤台南路	feng tai nan lu	1
+仙林中心	xian lin zhong xin	1
+长途东站	chang tu dong zhan	1
+金桥市场	jin qiao shi chang	1
+大桥南路	da qiao nan lu	1
+农贸中心	nong mao zhong xin	1
+春江新城	chun jiang xin cheng	1
+景明佳园	jing ming jia yuan	1
+南京南站	nan jing nan zhan	1
+雄州东路	xiong zhou dong lu	1
+雄州西路	xiong zhou xi lu	1
+六合机场	liu he ji chang	1
+胜太西路	sheng tai xi lu	1
+正德学院	zheng de xue yuan	1
+东郊小镇	dong jiao xiao zhen	1
+泉都大街	quan dou da jie	1
+红山动物园	hong shan dong wu yuan	1
+新模范马路	xin mo fan ma lu	1
+集庆门大街	ji qing men da jie	1
+浦口万汇城	pu kou wan hui cheng	1
+高新开发区	gao xin kai fa qu	1
+六合开发区	liu he kai fa qu	1
+凤凰山公园	feng huang shan gong yuan	1
+新港开发区	xin gang kai fa qu	1
+麒麟工业园	qi lin gong ye yuan	1
+汉中门大街	han zhong men da jie	1
+鼓楼科技园	gu lou ke ji yuan	1
+生态科技园	sheng tai ke ji yuan	1
+铁心桥大街	tie xin qiao da jie	1
+白下科技园	bai xia ke ji yuan	1
+麒麟工业园	qi lin gong ye yuan	1
+上坊工业园	shang fang gong ye yuan	1
+南京猿人洞	nan jing yuan ren dong	1
+江苏经贸学院	jiang su jing mao xue yuan	1
+中国药科大学	zhong guo yao ke da xue	1
+南大仙林校区	nan da xian lin xiao qu	1
+东大成贤学院	dong da cheng xian xue yuan	1
+南京林业大学	nan jing lin ye da xue	1
+青奥体育公园	qing ao ti yu gong yuan	1
+南京工业大学	nan jing gong ye da xue	1
+空港新城江宁	kong gang xin cheng jiang ning	1
+空港新城江宁	kong gang xin cheng jiang ning	1
+空港新城溧水	kong gang xin cheng li shui	1
+信息工程大学	xin xi gong cheng da xue	1
+保税物流中心	bao shui wu liu zhong xin	1
+东大九龙湖校区	dong da jiu long hu xiao qu	1
+河海大学佛城西路	he hai da xue fo cheng xi lu	1
