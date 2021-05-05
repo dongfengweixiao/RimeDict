@@ -1,0 +1,927 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime 词库扩展计划」
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.city.beijing.subway
+version: "2021.05.05"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+安德里北街	an de li bei jie	1
+安德里北街站	an de li bei jie zhan	1
+安定门	an ding men	1
+安定门站	an ding men zhan	1
+安河桥北	an he qiao bei	1
+安河桥北站	an he qiao bei zhan	1
+安华桥	an hua qiao	1
+安华桥站	an hua qiao zhan	1
+安立路	an li lu	1
+安立路站	an li lu zhan	1
+安贞门	an zhen men	1
+安贞门站	an zhen men zhan	1
+奥林匹克公园	ao lin pi ke gong yuan	1
+奥林匹克公园	ao lin pi ke gong yuan	1
+奥林匹克公园站	ao lin pi ke gong yuan zhan	1
+奥林匹克公园站	ao lin pi ke gong yuan zhan	1
+奥体中心	ao ti zhong xin	1
+奥体中心站	ao ti zhong xin zhan	1
+八宝山	ba bao shan	1
+八宝山站	ba bao shan zhan	1
+八角游乐园	ba jiao you le yuan	1
+八角游乐园站	ba jiao you le yuan zhan	1
+八里桥	ba li qiao	1
+八里桥站	ba li qiao zhan	1
+巴沟	ba gou	1
+巴沟	ba gou	1
+巴沟站	ba gou zhan	1
+巴沟站	ba gou zhan	1
+白堆子	bai dui zi	1
+白堆子站	bai dui zi zhan	1
+白盆窑	bai pen yao	1
+白盆窑站	bai pen yao zhan	1
+白石桥南	bai shi qiao nan	1
+白石桥南	bai shi qiao nan	1
+白石桥南站	bai shi qiao nan zhan	1
+白石桥南站	bai shi qiao nan zhan	1
+百子湾	bai zi wan	1
+百子湾站	bai zi wan zhan	1
+北安河	bei an he	1
+北安河站	bei an he zhan	1
+北工大西门	bei gong da xi men	1
+北工大西门站	bei gong da xi men zhan	1
+北宫门	bei gong men	1
+北宫门站	bei gong men zhan	1
+北海北	bei hai bei	1
+北海北站	bei hai bei zhan	1
+北京大学东门	bei jing da xue dong men	1
+北京大学东门站	bei jing da xue dong men zhan	1
+北京南	bei jing nan	1
+北京南	bei jing nan	1
+北京南站	bei jing nan zhan	1
+北京南站	bei jing nan zhan	1
+北京西	bei jing xi	1
+北京西	bei jing xi	1
+北京西站	bei jing xi zhan	1
+北京西站	bei jing xi zhan	1
+北京站	bei jing zhan	1
+北沙滩	bei sha tan	1
+北沙滩站	bei sha tan zhan	1
+北邵洼	bei shao wa	1
+北邵洼站	bei shao wa zhan	1
+北土城	bei tu cheng	1
+北土城	bei tu cheng	1
+北土城站	bei tu cheng zhan	1
+北土城站	bei tu cheng zhan	1
+北新桥	bei xin qiao	1
+北新桥站	bei xin qiao zhan	1
+北苑	bei yuan	1
+北苑路北	bei yuan lu bei	1
+北苑路北站	bei yuan lu bei zhan	1
+北苑站	bei yuan zhan	1
+北运河东	bei yun he dong	1
+北运河东站	bei yun he dong zhan	1
+北运河西	bei yun he xi	1
+北运河西站	bei yun he xi zhan	1
+菜市口	cai shi kou	1
+菜市口	cai shi kou	1
+菜市口站	cai shi kou zhan	1
+菜市口站	cai shi kou zhan	1
+草房	cao fang	1
+草房站	cao fang zhan	1
+草桥	cao qiao	1
+草桥	cao qiao	1
+草桥站	cao qiao zhan	1
+草桥站	cao qiao zhan	1
+茶棚	cha peng	1
+茶棚站	cha peng zhan	1
+昌平	chang ping	1
+昌平东关	chang ping dong guan	1
+昌平东关站	chang ping dong guan zhan	1
+昌平西山口	chang ping xi shan kou	1
+昌平西山口站	chang ping xi shan kou zhan	1
+昌平站	chang ping zhan	1
+常营	chang ying	1
+常营站	chang ying zhan	1
+朝阳公园	zhao yang gong yuan	1
+朝阳公园站	zhao yang gong yuan zhan	1
+朝阳门	zhao yang men	1
+朝阳门	zhao yang men	1
+朝阳门站	zhao yang men zhan	1
+朝阳门站	zhao yang men zhan	1
+车道沟	che dao gou	1
+车道沟站	che dao gou zhan	1
+车公庄	che gong zhuang	1
+车公庄	che gong zhuang	1
+车公庄西	che gong zhuang xi	1
+车公庄西站	che gong zhuang xi zhan	1
+车公庄站	che gong zhuang zhan	1
+车公庄站	che gong zhuang zhan	1
+成寿寺	cheng shou si	1
+成寿寺站	cheng shou si zhan	1
+崇文门	chong wen men	1
+崇文门	chong wen men	1
+崇文门站	chong wen men zhan	1
+崇文门站	chong wen men zhan	1
+传媒大学	chuan mei da xue	1
+传媒大学站	chuan mei da xue zhan	1
+慈寿寺	ci shou si	1
+慈寿寺	ci shou si	1
+慈寿寺站	ci shou si zhan	1
+慈寿寺站	ci shou si zhan	1
+磁器口	ci qi kou	1
+磁器口	ci qi kou	1
+磁器口站	ci qi kou zhan	1
+磁器口站	ci qi kou zhan	1
+次渠	ci qu	1
+次渠南	ci qu nan	1
+次渠南站	ci qu nan zhan	1
+次渠站	ci qu zhan	1
+崔各庄	cui ge zhuang	1
+崔各庄站	cui ge zhuang zhan	1
+褡裢坡	da lian po	1
+褡裢坡站	da lian po zhan	1
+达官营	da guan ying	1
+达官营站	da guan ying zhan	1
+大葆台	da bao tai	1
+大葆台站	da bao tai zhan	1
+大红门	da hong men	1
+大红门	da hong men	1
+大红门	da hong men	1
+大红门南	da hong men nan	1
+大红门南	da hong men nan	1
+大红门南站	da hong men nan zhan	1
+大红门南站	da hong men nan zhan	1
+大红门站	da hong men zhan	1
+大红门站	da hong men zhan	1
+大红门站	da hong men zhan	1
+大郊亭	da jiao ting	1
+大郊亭站	da jiao ting zhan	1
+大井	da jing	1
+大井站	da jing zhan	1
+大石河东	da shi he dong	1
+大石河东站	da shi he dong zhan	1
+大屯路东	da tun lu dong	1
+大屯路东	da tun lu dong	1
+大屯路东站	da tun lu dong zhan	1
+大屯路东站	da tun lu dong zhan	1
+大瓦窑	da wa yao	1
+大瓦窑站	da wa yao zhan	1
+大望路	da wang lu	1
+大望路站	da wang lu zhan	1
+大兴机场	da xing ji chang	1
+大兴机场站	da xing ji chang zhan	1
+大兴新城	da xing xin cheng	1
+大兴新城站	da xing xin cheng zhan	1
+大钟寺	da zhong si	1
+大钟寺站	da zhong si zhan	1
+稻田	dao tian	1
+稻田站	dao tian zhan	1
+稻香湖路	dao xiang hu lu	1
+稻香湖路站	dao xiang hu lu zhan	1
+德茂	de mao	1
+德茂	de mao	1
+德茂站	de mao zhan	1
+德茂站	de mao zhan	1
+灯市口	deng shi kou	1
+灯市口站	deng shi kou zhan	1
+定海园	ding hai yuan	1
+定海园西	ding hai yuan xi	1
+定海园西站	ding hai yuan xi zhan	1
+定海园站	ding hai yuan zhan	1
+东大桥	dong da qiao	1
+东大桥站	dong da qiao zhan	1
+东单	dong dan	1
+东单	dong dan	1
+东单站	dong dan zhan	1
+东单站	dong dan zhan	1
+东风北桥	dong feng bei qiao	1
+东风北桥站	dong feng bei qiao zhan	1
+东高地	dong gao di	1
+东高地	dong gao di	1
+东高地站	dong gao di zhan	1
+东高地站	dong gao di zhan	1
+东管头南	dong guan tou nan	1
+东管头南站	dong guan tou nan zhan	1
+东湖渠	dong hu qu	1
+东湖渠站	dong hu qu zhan	1
+东四	dong si	1
+东四	dong si	1
+东四十条	dong si shi tiao	1
+东四十条站	dong si shi tiao zhan	1
+东四站	dong si zhan	1
+东四站	dong si zhan	1
+东夏园	dong xia yuan	1
+东夏园站	dong xia yuan zhan	1
+东直门	dong zhi men	1
+东直门	dong zhi men	1
+东直门	dong zhi men	1
+东直门站	dong zhi men zhan	1
+东直门站	dong zhi men zhan	1
+东直门站	dong zhi men zhan	1
+动物园	dong wu yuan	1
+动物园站	dong wu yuan zhan	1
+二里沟	er li gou	1
+二里沟	er li gou	1
+二里沟站	er li gou zhan	1
+二里沟站	er li gou zhan	1
+垡头	fa tou	1
+垡头站	fa tou zhan	1
+方庄	fang zhuang	1
+方庄站	fang zhuang zhan	1
+房山城关	fang shan cheng guan	1
+房山城关站	fang shan cheng guan zhan	1
+分钟寺	fen zhong si	1
+分钟寺站	fen zhong si zhan	1
+丰台东大街	feng tai dong da jie	1
+丰台东大街站	feng tai dong da jie zhan	1
+丰台科技园	feng tai ke ji yuan	1
+丰台科技园站	feng tai ke ji yuan zhan	1
+丰台南路	feng tai nan lu	1
+丰台南路站	feng tai nan lu zhan	1
+丰台站	feng tai zhan	1
+俸伯	feng bo	1
+俸伯站	feng bo zhan	1
+福寿岭	fu shou ling	1
+福寿岭站	fu shou ling zhan	1
+阜成门	fu cheng men	1
+阜成门站	fu cheng men zhan	1
+阜通	fu tong	1
+阜通站	fu tong zhan	1
+复兴门	fu xing men	1
+复兴门	fu xing men	1
+复兴门站	fu xing men zhan	1
+复兴门站	fu xing men zhan	1
+甘家口	gan jia kou	1
+甘家口站	gan jia kou zhan	1
+高碑店	gao bei dian	1
+高碑店站	gao bei dian zhan	1
+高家园	gao jia yuan	1
+高家园站	gao jia yuan zhan	1
+高井	gao jing	1
+高井站	gao jing zhan	1
+高楼金	gao lou jin	1
+高楼金站	gao lou jin zhan	1
+高米店北	gao mi dian bei	1
+高米店北站	gao mi dian bei zhan	1
+高米店南	gao mi dian nan	1
+高米店南站	gao mi dian nan zhan	1
+公益西桥	gong yi xi qiao	1
+公益西桥站	gong yi xi qiao zhan	1
+公主坟	gong zhu fen	1
+公主坟	gong zhu fen	1
+公主坟站	gong zhu fen zhan	1
+公主坟站	gong zhu fen zhan	1
+巩华城	gong hua cheng	1
+巩华城站	gong hua cheng zhan	1
+古城	gu cheng	1
+古城站	gu cheng zhan	1
+鼓楼大街	gu lou da jie	1
+鼓楼大街	gu lou da jie	1
+鼓楼大街站	gu lou da jie zhan	1
+鼓楼大街站	gu lou da jie zhan	1
+关庄	guan zhuang	1
+关庄站	guan zhuang zhan	1
+管庄	guan zhuang	1
+管庄站	guan zhuang zhan	1
+光熙门	guang xi men	1
+光熙门站	guang xi men zhan	1
+广安门内	guang an men nei	1
+广安门内站	guang an men nei zhan	1
+广渠门内	guang qu men nei	1
+广渠门内站	guang qu men nei zhan	1
+广渠门外	guang qu men wai	1
+广渠门外站	guang qu men wai zhan	1
+广阳城	guang yang cheng	1
+广阳城站	guang yang cheng zhan	1
+郭公庄	guo gong zhuang	1
+郭公庄	guo gong zhuang	1
+郭公庄站	guo gong zhuang zhan	1
+郭公庄站	guo gong zhuang zhan	1
+郭庄子	guo zhuang zi	1
+郭庄子站	guo zhuang zi zhan	1
+国家图书馆	guo jia tu shu guan	1
+国家图书馆	guo jia tu shu guan	1
+国家图书馆	guo jia tu shu guan	1
+国家图书馆站	guo jia tu shu guan zhan	1
+国家图书馆站	guo jia tu shu guan zhan	1
+国家图书馆站	guo jia tu shu guan zhan	1
+国贸	guo mao	1
+国贸	guo mao	1
+国贸站	guo mao zhan	1
+国贸站	guo mao zhan	1
+国展	guo zhan	1
+国展站	guo zhan zhan	1
+果园	guo yuan	1
+果园站	guo yuan zhan	1
+海淀黄庄	hai dian huang zhuang	1
+海淀黄庄	hai dian huang zhuang	1
+海淀黄庄站	hai dian huang zhuang zhan	1
+海淀黄庄站	hai dian huang zhuang zhan	1
+海淀五路居	hai dian wu lu ju	1
+海淀五路居站	hai dian wu lu ju zhan	1
+海户屯	hai hu tun	1
+海户屯	hai hu tun	1
+海户屯站	hai hu tun zhan	1
+海户屯站	hai hu tun zhan	1
+郝家府	hao jia fu	1
+郝家府站	hao jia fu zhan	1
+和平里北街	he ping li bei jie	1
+和平里北街站	he ping li bei jie zhan	1
+和平门	he ping men	1
+和平门站	he ping men zhan	1
+和平西桥	he ping xi qiao	1
+和平西桥站	he ping xi qiao zhan	1
+和义	he yi	1
+和义	he yi	1
+和义站	he yi zhan	1
+和义站	he yi zhan	1
+黑庄户	hei zhuang hu	1
+黑庄户站	hei zhuang hu zhan	1
+后沙峪	hou sha yu	1
+后沙峪站	hou sha yu zhan	1
+呼家楼	hu jia lou	1
+呼家楼	hu jia lou	1
+呼家楼站	hu jia lou zhan	1
+呼家楼站	hu jia lou zhan	1
+虎坊桥	hu fang qiao	1
+虎坊桥站	hu fang qiao zhan	1
+花梨坎	hua li kan	1
+花梨坎站	hua li kan zhan	1
+花乡东桥	hua xiang dong qiao	1
+花乡东桥站	hua xiang dong qiao zhan	1
+花园桥	hua yuan qiao	1
+花园桥站	hua yuan qiao zhan	1
+花庄	hua zhuang	1
+花庄	hua zhuang	1
+花庄站	hua zhuang zhan	1
+花庄站	hua zhuang zhan	1
+化工	hua gong	1
+化工站	hua gong zhan	1
+欢乐谷景区	huan le gu jing qu	1
+欢乐谷景区站	huan le gu jing qu zhan	1
+环球度假区	huan qiu du jia qu	1
+环球度假区	huan qiu du jia qu	1
+环球度假区站	huan qiu du jia qu zhan	1
+环球度假区站	huan qiu du jia qu zhan	1
+黄厂	huang chang	1
+黄厂站	huang chang zhan	1
+黄村火车	huang cun huo che	1
+黄村火车站	huang cun huo che zhan	1
+黄村西大街	huang cun xi da jie	1
+黄村西大街站	huang cun xi da jie zhan	1
+黄渠	huang qu	1
+黄渠站	huang qu zhan	1
+回龙观	hui long guan	1
+回龙观东大街	hui long guan dong da jie	1
+回龙观东大街站	hui long guan dong da jie zhan	1
+回龙观站	hui long guan zhan	1
+惠新西街北口	hui xin xi jie bei kou	1
+惠新西街北口站	hui xin xi jie bei kou zhan	1
+惠新西街南口	hui xin xi jie nan kou	1
+惠新西街南口	hui xin xi jie nan kou	1
+惠新西街南口站	hui xin xi jie nan kou zhan	1
+惠新西街南口站	hui xin xi jie nan kou zhan	1
+火箭万源	huo jian wan yuan	1
+火箭万源	huo jian wan yuan	1
+火箭万源站	huo jian wan yuan zhan	1
+火箭万源站	huo jian wan yuan zhan	1
+火器营	huo qi ying	1
+火器营站	huo qi ying zhan	1
+霍营	huo ying	1
+霍营	huo ying	1
+霍营站	huo ying zhan	1
+霍营站	huo ying zhan	1
+积水潭	ji shui tan	1
+积水潭站	ji shui tan zhan	1
+纪家庙	ji jia miao	1
+纪家庙站	ji jia miao zhan	1
+建国门	jian guo men	1
+建国门	jian guo men	1
+建国门站	jian guo men zhan	1
+建国门站	jian guo men zhan	1
+健德门	jian de men	1
+健德门站	jian de men zhan	1
+将台	jiang tai	1
+将台站	jiang tai zhan	1
+焦化厂	jiao hua chang	1
+焦化厂站	jiao hua chang zhan	1
+角门东	jiao men dong	1
+角门东站	jiao men dong zhan	1
+角门西	jiao men xi	1
+角门西	jiao men xi	1
+角门西站	jiao men xi zhan	1
+角门西站	jiao men xi zhan	1
+金安桥	jin an qiao	1
+金安桥	jin an qiao	1
+金安桥站	jin an qiao zhan	1
+金安桥站	jin an qiao zhan	1
+金台路	jin tai lu	1
+金台路	jin tai lu	1
+金台路站	jin tai lu zhan	1
+金台路站	jin tai lu zhan	1
+金台夕照	jin tai xi zhao	1
+金台夕照站	jin tai xi zhao zhan	1
+劲松	jin song	1
+劲松站	jin song zhan	1
+经海路	jing hai lu	1
+经海路站	jing hai lu zhan	1
+经海一路	jing hai yi lu	1
+经海一路站	jing hai yi lu zhan	1
+景泰	jing tai	1
+景泰站	jing tai zhan	1
+九号村	jiu hao cun	1
+九号村站	jiu hao cun zhan	1
+九棵树	jiu ke shu	1
+九棵树站	jiu ke shu zhan	1
+九龙山	jiu long shan	1
+九龙山	jiu long shan	1
+九龙山站	jiu long shan zhan	1
+九龙山站	jiu long shan zhan	1
+旧宫	jiu gong	1
+旧宫站	jiu gong zhan	1
+军事博物馆	jun shi bo wu guan	1
+军事博物馆	jun shi bo wu guan	1
+军事博物馆站	jun shi bo wu guan zhan	1
+军事博物馆站	jun shi bo wu guan zhan	1
+科怡路	ke yi lu	1
+科怡路站	ke yi lu zhan	1
+来广营	lai guang ying	1
+来广营站	lai guang ying zhan	1
+郎辛庄	lang xin zhuang	1
+郎辛庄站	lang xin zhuang zhan	1
+老观里	lao guan li	1
+老观里站	lao guan li zhan	1
+梨园	li yuan	1
+梨园站	li yuan zhan	1
+篱笆房	li ba fang	1
+篱笆房站	li ba fang zhan	1
+立水桥	li shui qiao	1
+立水桥	li shui qiao	1
+立水桥南	li shui qiao nan	1
+立水桥南站	li shui qiao nan zhan	1
+立水桥站	li shui qiao zhan	1
+立水桥站	li shui qiao zhan	1
+栗园庄	li yuan zhuang	1
+栗园庄站	li yuan zhuang zhan	1
+莲花桥	lian hua qiao	1
+莲花桥站	lian hua qiao zhan	1
+良乡大学城	liang xiang da xue cheng	1
+良乡大学城北	liang xiang da xue cheng bei	1
+良乡大学城北站	liang xiang da xue cheng bei zhan	1
+良乡大学城西	liang xiang da xue cheng xi	1
+良乡大学城西站	liang xiang da xue cheng xi zhan	1
+良乡大学城站	liang xiang da xue cheng zhan	1
+良乡南关	liang xiang nan guan	1
+良乡南关站	liang xiang nan guan zhan	1
+亮马桥	liang ma qiao	1
+亮马桥站	liang ma qiao zhan	1
+廖公庄	liao gong zhuang	1
+廖公庄站	liao gong zhuang zhan	1
+林萃桥	lin cui qiao	1
+林萃桥站	lin cui qiao zhan	1
+临河里	lin he li	1
+临河里站	lin he li zhan	1
+灵境胡同	ling jing hu tong	1
+灵境胡同站	ling jing hu tong zhan	1
+刘家窑	liu jia yao	1
+刘家窑站	liu jia yao zhan	1
+柳芳	liu fang	1
+柳芳站	liu fang zhan	1
+六道口	liu dao kou	1
+六道口站	liu dao kou zhan	1
+六里桥	liu li qiao	1
+六里桥	liu li qiao	1
+六里桥东	liu li qiao dong	1
+六里桥东站	liu li qiao dong zhan	1
+六里桥站	liu li qiao zhan	1
+六里桥站	liu li qiao zhan	1
+龙泽	long ze	1
+龙泽站	long ze zhan	1
+鹿圈东	lu quan dong	1
+鹿圈东站	lu quan dong zhan	1
+潞城	lu cheng	1
+潞城站	lu cheng zhan	1
+马各庄	ma ge zhuang	1
+马各庄站	ma ge zhuang zhan	1
+马家堡	ma jia bao	1
+马家堡站	ma jia bao zhan	1
+马连洼	ma lian wa	1
+马连洼站	ma lian wa zhan	1
+马泉营	ma quan ying	1
+马泉营站	ma quan ying zhan	1
+牡丹园	mu dan yuan	1
+牡丹园站	mu dan yuan zhan	1
+木樨地	mu xi di	1
+木樨地站	mu xi di zhan	1
+木樨园	mu xi yuan	1
+木樨园	mu xi yuan	1
+木樨园站	mu xi yuan zhan	1
+木樨园站	mu xi yuan zhan	1
+南法信	nan fa xin	1
+南法信站	nan fa xin zhan	1
+南礼士路	nan li shi lu	1
+南礼士路站	nan li shi lu zhan	1
+南楼梓庄	nan lou zi zhuang	1
+南楼梓庄站	nan lou zi zhuang zhan	1
+南锣鼓巷	nan luo gu xiang	1
+南锣鼓巷	nan luo gu xiang	1
+南锣鼓巷站	nan luo gu xiang zhan	1
+南锣鼓巷站	nan luo gu xiang zhan	1
+南邵	nan shao	1
+南邵站	nan shao zhan	1
+泥洼	ni wa	1
+泥洼站	ni wa zhan	1
+农大南路	nong da nan lu	1
+农大南路站	nong da nan lu zhan	1
+农业展览馆	nong ye zhan lan guan	1
+农业展览馆站	nong ye zhan lan guan zhan	1
+潘家园	pan jia yuan	1
+潘家园站	pan jia yuan zhan	1
+平安里	ping an li	1
+平安里	ping an li	1
+平安里站	ping an li zhan	1
+平安里站	ping an li zhan	1
+平乐园	ping le yuan	1
+平乐园站	ping le yuan zhan	1
+平西府	ping xi fu	1
+平西府站	ping xi fu zhan	1
+苹果园	ping guo yuan	1
+苹果园	ping guo yuan	1
+苹果园	ping guo yuan	1
+苹果园站	ping guo yuan zhan	1
+苹果园站	ping guo yuan zhan	1
+苹果园站	ping guo yuan zhan	1
+蒲黄榆	pu huang yu	1
+蒲黄榆	pu huang yu	1
+蒲黄榆站	pu huang yu zhan	1
+蒲黄榆站	pu huang yu zhan	1
+七里庄	qi li zhuang	1
+七里庄	qi li zhuang	1
+七里庄站	qi li zhuang zhan	1
+七里庄站	qi li zhuang zhan	1
+前门	qian men	1
+前门站	qian men zhan	1
+桥户营	qiao hu ying	1
+桥户营站	qiao hu ying zhan	1
+桥湾	qiao wan	1
+桥湾站	qiao wan zhan	1
+秦河路	qin he lu	1
+秦河路站	qin he lu zhan	1
+青年路	qing nian lu	1
+青年路站	qing nian lu zhan	1
+清河	qing he	1
+清河站	qing he zhan	1
+清华东路西口	qing hua dong lu xi kou	1
+清华东路西口站	qing hua dong lu xi kou zhan	1
+清源路	qing yuan lu	1
+清源路站	qing yuan lu zhan	1
+屈庄	qu zhuang	1
+屈庄站	qu zhuang zhan	1
+群芳	qun fang	1
+群芳站	qun fang zhan	1
+饶乐府	rao le fu	1
+饶乐府站	rao le fu zhan	1
+人民大学	ren min da xue	1
+人民大学站	ren min da xue zhan	1
+荣昌东街	rong chang dong jie	1
+荣昌东街	rong chang dong jie	1
+荣昌东街站	rong chang dong jie zhan	1
+荣昌东街站	rong chang dong jie zhan	1
+荣京东街	rong jing dong jie	1
+荣京东街站	rong jing dong jie zhan	1
+荣兴街	rong xing jie	1
+荣兴街站	rong xing jie zhan	1
+瑞和庄	rui he zhuang	1
+瑞和庄站	rui he zhuang zhan	1
+三元桥	san yuan qiao	1
+三元桥	san yuan qiao	1
+三元桥站	san yuan qiao zhan	1
+三元桥站	san yuan qiao zhan	1
+森林公园南门	sen lin gong yuan nan men	1
+森林公园南门站	sen lin gong yuan nan men zhan	1
+沙河	sha he	1
+沙河高教园	sha he gao jiao yuan	1
+沙河高教园站	sha he gao jiao yuan zhan	1
+沙河站	sha he zhan	1
+善各庄	shan ge zhuang	1
+善各庄站	shan ge zhuang zhan	1
+上岸	shang an	1
+上岸站	shang an zhan	1
+上地	shang di	1
+上地站	shang di zhan	1
+芍药居	shao yao ju	1
+芍药居	shao yao ju	1
+芍药居站	shao yao ju zhan	1
+芍药居站	shao yao ju zhan	1
+什刹海	shen cha hai	1
+什刹海站	shen cha hai zhan	1
+生命科学园	sheng ming ke xue yuan	1
+生命科学园站	sheng ming ke xue yuan zhan	1
+生物医药基地	sheng wu yi yao ji di	1
+生物医药基地站	sheng wu yi yao ji di zhan	1
+十里堡	shi li pu	1
+十里堡站	shi li pu zhan	1
+十里河	shi li he	1
+十里河	shi li he	1
+十里河站	shi li he zhan	1
+十里河站	shi li he zhan	1
+十三陵景区	shi san ling jing qu	1
+十三陵景区站	shi san ling jing qu zhan	1
+石厂	shi chang	1
+石厂站	shi chang zhan	1
+石榴庄	shi liu zhuang	1
+石榴庄站	shi liu zhuang zhan	1
+石门	shi men	1
+石门站	shi men zhan	1
+首经贸	shou jing mao	1
+首经贸	shou jing mao	1
+首经贸站	shou jing mao zhan	1
+首经贸站	shou jing mao zhan	1
+双岛式	shuang dao shi	1
+双岛式	shuang dao shi	1
+双合	shuang he	1
+双合站	shuang he zhan	1
+双井	shuang jing	1
+双井	shuang jing	1
+双井站	shuang jing zhan	1
+双井站	shuang jing zhan	1
+双桥	shuang qiao	1
+双桥站	shuang qiao zhan	1
+顺义	shun yi	1
+顺义站	shun yi zhan	1
+四道桥	si dao qiao	1
+四道桥站	si dao qiao zhan	1
+四海庄	si hai zhuang	1
+四海庄站	si hai zhuang zhan	1
+四惠	si hui	1
+四惠	si hui	1
+四惠东	si hui dong	1
+四惠东	si hui dong	1
+四惠东站	si hui dong zhan	1
+四惠东站	si hui dong zhan	1
+四惠站	si hui zhan	1
+四惠站	si hui zhan	1
+宋家庄	song jia zhuang	1
+宋家庄	song jia zhuang	1
+宋家庄	song jia zhuang	1
+宋家庄站	song jia zhuang zhan	1
+宋家庄站	song jia zhuang zhan	1
+宋家庄站	song jia zhuang zhan	1
+苏州街	su zhou jie	1
+苏州街	su zhou jie	1
+苏州街站	su zhou jie zhan	1
+苏州街站	su zhou jie zhan	1
+苏州桥	su zhou qiao	1
+苏州桥站	su zhou qiao zhan	1
+苏庄	su zhuang	1
+苏庄站	su zhuang zhan	1
+孙河	sun he	1
+孙河站	sun he zhan	1
+太和桥北	tai he qiao bei	1
+太和桥北站	tai he qiao bei zhan	1
+太阳宫	tai yang gong	1
+太阳宫站	tai yang gong zhan	1
+陶然桥	tao ran qiao	1
+陶然桥站	tao ran qiao zhan	1
+陶然亭	tao ran ting	1
+陶然亭站	tao ran ting zhan	1
+天安门东	tian an men dong	1
+天安门东站	tian an men dong zhan	1
+天安门西	tian an men xi	1
+天安门西站	tian an men xi zhan	1
+天宫院	tian gong yuan	1
+天宫院站	tian gong yuan zhan	1
+天桥	tian qiao	1
+天桥	tian qiao	1
+天桥站	tian qiao zhan	1
+天桥站	tian qiao zhan	1
+天坛东门	tian tan dong men	1
+天坛东门站	tian tan dong men zhan	1
+天通苑	tian tong yuan	1
+天通苑北	tian tong yuan bei	1
+天通苑北站	tian tong yuan bei zhan	1
+天通苑南	tian tong yuan nan	1
+天通苑南站	tian tong yuan nan zhan	1
+天通苑站	tian tong yuan zhan	1
+田村	tian cun	1
+田村站	tian cun zhan	1
+通运门	tong yun men	1
+通运门站	tong yun men zhan	1
+通州北关	tong zhou bei guan	1
+通州北关站	tong zhou bei guan zhan	1
+通州北苑	tong zhou bei yuan	1
+通州北苑站	tong zhou bei yuan zhan	1
+同济南路	tong ji nan lu	1
+同济南路站	tong ji nan lu zhan	1
+土桥	tu qiao	1
+土桥站	tu qiao zhan	1
+团结湖	tuan jie hu	1
+团结湖站	tuan jie hu zhan	1
+屯佃	tun dian	1
+屯佃站	tun dian zhan	1
+湾子	wan zi	1
+湾子站	wan zi zhan	1
+万安	wan an	1
+万安站	wan an zhan	1
+万泉河桥	wan quan he qiao	1
+万泉河桥站	wan quan he qiao zhan	1
+万盛东	wan sheng dong	1
+万盛东站	wan sheng dong zhan	1
+万盛西	wan sheng xi	1
+万盛西站	wan sheng xi zhan	1
+万寿路	wan shou lu	1
+万寿路站	wan shou lu zhan	1
+万寿寺	wan shou si	1
+万寿寺站	wan shou si zhan	1
+万源街	wan yuan jie	1
+万源街站	wan yuan jie zhan	1
+王府井	wang fu jing	1
+王府井站	wang fu jing zhan	1
+望京	wang jing	1
+望京	wang jing	1
+望京东	wang jing dong	1
+望京东站	wang jing dong zhan	1
+望京南	wang jing nan	1
+望京南站	wang jing nan zhan	1
+望京西	wang jing xi	1
+望京西	wang jing xi	1
+望京西站	wang jing xi zhan	1
+望京西站	wang jing xi zhan	1
+望京站	wang jing zhan	1
+望京站	wang jing zhan	1
+魏公村	wei gong cun	1
+魏公村站	wei gong cun zhan	1
+温阳路	wen yang lu	1
+温阳路站	wen yang lu zhan	1
+五道口	wu dao kou	1
+五道口站	wu dao kou zhan	1
+五福堂	wu fu tang	1
+五福堂	wu fu tang	1
+五福堂站	wu fu tang zhan	1
+五福堂站	wu fu tang zhan	1
+五棵松	wu ke song	1
+五棵松站	wu ke song zhan	1
+物资学院路	wu zi xue yuan lu	1
+物资学院路站	wu zi xue yuan lu zhan	1
+西北旺	xi bei wang	1
+西北旺站	xi bei wang zhan	1
+西单	xi dan	1
+西单	xi dan	1
+西单站	xi dan zhan	1
+西单站	xi dan zhan	1
+西钓鱼台	xi diao yu tai	1
+西钓鱼台站	xi diao yu tai zhan	1
+西二旗	xi er qi	1
+西二旗	xi er qi	1
+西二旗站	xi er qi zhan	1
+西二旗站	xi er qi zhan	1
+西红门	xi hong men	1
+西红门站	xi hong men zhan	1
+西黄村	xi huang cun	1
+西黄村站	xi huang cun zhan	1
+西局	xi ju	1
+西局	xi ju	1
+西局站	xi ju zhan	1
+西局站	xi ju zhan	1
+西四	xi si	1
+西四站	xi si zhan	1
+西土城	xi tu cheng	1
+西土城站	xi tu cheng zhan	1
+西小口	xi xiao kou	1
+西小口站	xi xiao kou zhan	1
+西苑	xi yuan	1
+西苑	xi yuan	1
+西苑站	xi yuan zhan	1
+西苑站	xi yuan zhan	1
+西直门	xi zhi men	1
+西直门	xi zhi men	1
+西直门	xi zhi men	1
+西直门站	xi zhi men zhan	1
+西直门站	xi zhi men zhan	1
+西直门站	xi zhi men zhan	1
+香山	xiang shan	1
+香山站	xiang shan zhan	1
+小红门	xiao hong men	1
+小红门站	xiao hong men zhan	1
+小园	xiao yuan	1
+小园站	xiao yuan zhan	1
+肖村	xiao cun	1
+肖村站	xiao cun zhan	1
+新宫	xin gong	1
+新宫站	xin gong zhan	1
+新街口	xin jie kou	1
+新街口站	xin jie kou zhan	1
+星城	xing cheng	1
+星城站	xing cheng zhan	1
+宣武门	xuan wu men	1
+宣武门	xuan wu men	1
+宣武门站	xuan wu men zhan	1
+宣武门站	xuan wu men zhan	1
+阎村	yan cun	1
+阎村东	yan cun dong	1
+阎村东	yan cun dong	1
+阎村东站	yan cun dong zhan	1
+阎村东站	yan cun dong zhan	1
+阎村站	yan cun zhan	1
+燕山	yan shan	1
+燕山站	yan shan zhan	1
+杨庄	yang zhuang	1
+杨庄站	yang zhuang zhan	1
+颐和园西门	yi he yuan xi men	1
+颐和园西门站	yi he yuan xi men zhan	1
+义和庄	yi he zhuang	1
+义和庄站	yi he zhuang zhan	1
+亦创会展中心	yi chuang hui zhan zhong xin	1
+亦创会展中心站	yi chuang hui zhan zhong xin zhan	1
+亦庄火车	yi zhuang huo che	1
+亦庄火车站	yi zhuang huo che zhan	1
+亦庄桥	yi zhuang qiao	1
+亦庄桥站	yi zhuang qiao zhan	1
+亦庄同仁	yi zhuang tong ren	1
+亦庄同仁站	yi zhuang tong ren zhan	1
+亦庄文化园	yi zhuang wen hua yuan	1
+亦庄文化园站	yi zhuang wen hua yuan zhan	1
+亦庄线	yi zhuang xian	1
+亦庄线	yi zhuang xian	1
+瀛海	ying hai	1
+瀛海	ying hai	1
+瀛海站	ying hai zhan	1
+瀛海站	ying hai zhan	1
+雍和宫	yong he gong	1
+雍和宫	yong he gong	1
+雍和宫站	yong he gong zhan	1
+雍和宫站	yong he gong zhan	1
+永安里	yong an li	1
+永安里站	yong an li zhan	1
+永定门外	yong ding men wai	1
+永定门外	yong ding men wai	1
+永定门外	yong ding men wai	1
+永定门外站	yong ding men wai zhan	1
+永定门外站	yong ding men wai zhan	1
+永定门外站	yong ding men wai zhan	1
+永丰	yong feng	1
+永丰南	yong feng nan	1
+永丰南站	yong feng nan zhan	1
+永丰站	yong feng zhan	1
+永泰庄	yong tai zhuang	1
+永泰庄站	yong tai zhuang zhan	1
+玉泉路	yu quan lu	1
+玉泉路站	yu quan lu zhan	1
+育新	yu xin	1
+育新站	yu xin zhan	1
+育知路	yu zhi lu	1
+育知路站	yu zhi lu zhan	1
+园博园	yuan bo yuan	1
+园博园站	yuan bo yuan zhan	1
+圆明园	yuan ming yuan	1
+圆明园站	yuan ming yuan zhan	1
+枣营	zao ying	1
+枣营站	zao ying zhan	1
+枣园	zao yuan	1
+枣园站	zao yuan zhan	1
+张郭庄	zhang guo zhuang	1
+张郭庄站	zhang guo zhuang zhan	1
+张自忠路	zhang zi zhong lu	1
+张自忠路站	zhang zi zhong lu zhan	1
+长春桥	chang chun qiao	1
+长春桥站	chang chun qiao zhan	1
+长椿街	zhang chun jie	1
+长椿街站	zhang chun jie zhan	1
+长阳	zhang yang	1
+长阳站	zhang yang zhan	1
+知春里	zhi chun li	1
+知春里站	zhi chun li zhan	1
+知春路	zhi chun lu	1
+知春路	zhi chun lu	1
+知春路站	zhi chun lu zhan	1
+知春路站	zhi chun lu zhan	1
+植物园	zhi wu yuan	1
+植物园站	zhi wu yuan zhan	1
+中关村	zhong guan cun	1
+中关村站	zhong guan cun zhan	1
+中国美术馆	zhong guo mei shu guan	1
+中国美术馆站	zhong guo mei shu guan zhan	1
+朱辛庄	zhu xin zhuang	1
+朱辛庄	zhu xin zhuang	1
+朱辛庄站	zhu xin zhuang zhan	1
+朱辛庄站	zhu xin zhuang zhan	1
+珠市口	zhu shi kou	1
+珠市口	zhu shi kou	1
+珠市口	zhu shi kou	1
+珠市口站	zhu shi kou zhan	1
+珠市口站	zhu shi kou zhan	1
+珠市口站	zhu shi kou zhan	1
+紫草坞	zi cao wu	1
+紫草坞站	zi cao wu zhan	1
