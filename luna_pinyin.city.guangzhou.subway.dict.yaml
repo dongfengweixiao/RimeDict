@@ -1,0 +1,445 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime 词库扩展计划」
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.city.guangzhou.subway
+version: "2021.05.06"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+杨箕	yang ji	1
+黄沙	huang sha	1
+芳村	fang cun	1
+坑口	keng kou	1
+西塱	xi lang	1
+石壁	shi bi	1
+会江	hui jiang	1
+南浦	nan pu	1
+洛溪	luo xi	1
+南洲	nan zhou	1
+昌岗	chang gang	1
+萧岗	xiao gang	1
+江夏	jiang xia	1
+黄边	huang bian	1
+高增	gao zeng	1
+人和	ren he	1
+龙归	long gui	1
+永泰	yong tai	1
+同和	tong he	1
+燕塘	yan tang	1
+五山	wu shan	1
+华师	hua shi	1
+岗顶	gang ding	1
+客村	ke cun	1
+大塘	da tang	1
+沥滘	li jiao	1
+厦滘	sha jiao	1
+大石	da shi	1
+市桥	shi qiao	1
+黄村	huang cun	1
+车陂	che bei	1
+官洲	guan zhou	1
+新造	xin zao	1
+石碁	shi qi	1
+海傍	hai bang	1
+低涌	di yong	1
+东涌	dong yong	1
+庆盛	qing sheng	1
+黄阁	huang ge	1
+蕉门	jiao men	1
+金洲	jin zhou	1
+广隆	guang long	1
+大涌	da yong	1
+塘坑	tang keng	1
+南横	nan heng	1
+滘口	jiao kou	1
+坦尾	tan wei	1
+西场	xi chang	1
+西村	xi cun	1
+小北	xiao bei	1
+淘金	tao jin	1
+区庄	qu zhuang	1
+杨箕	yang ji	1
+猎德	lie de	1
+潭村	tan cun	1
+员村	yuan cun	1
+东圃	dong pu	1
+三溪	san xi	1
+鱼珠	yu zhu	1
+文冲	wen chong	1
+横沙	heng sha	1
+沙贝	sha bei	1
+河沙	he sha	1
+坦尾	tan wei	1
+黄沙	huang sha	1
+东湖	dong hu	1
+区庄	qu zhuang	1
+燕塘	yan tang	1
+长湴	zhang ban	1
+龙洞	long dong	1
+黄陂	huang bei	1
+金峰	jin feng	1
+暹岗	xian gang	1
+苏元	su yuan	1
+萝岗	luo gang	1
+香雪	xiang xue	1
+石壁	shi bi	1
+谢村	xie cun	1
+钟村	zhong cun	1
+员岗	yuan gang	1
+板桥	ban qiao	1
+滘心	jiao xin	1
+亭岗	ting gang	1
+石井	shi jing	1
+小坪	xiao ping	1
+石潭	shi tan	1
+聚龙	ju long	1
+上步	shang bu	1
+同德	tong de	1
+沙园	sha yuan	1
+昌岗	chang gang	1
+晓港	xiao gang	1
+中大	zhong da	1
+鹭江	lu jiang	1
+客村	ke cun	1
+赤岗	chi gang	1
+琶洲	pa zhou	1
+莲塘	lian tang	1
+清埗	qing bu	1
+清塘	qing tang	1
+高增	gao zeng	1
+鱼珠	yu zhu	1
+双岗	shuang gang	1
+夏园	xia yuan	1
+南岗	nan gang	1
+沙村	sha cun	1
+白江	bai jiang	1
+新塘	xin tang	1
+官湖	guan hu	1
+新沙	xin sha	1
+新和	xin he	1
+红卫	hong wei	1
+新南	xin nan	1
+枫下	feng xia	1
+旺村	wang cun	1
+汤村	tang cun	1
+镇龙	zhen long	1
+夏良	xia liang	1
+太和	tai he	1
+竹料	zhu liao	1
+马沥	ma li	1
+新和	xin he	1
+太平	tai ping	1
+神岗	shen gang	1
+赤草	chi cao	1
+东风	dong feng	1
+员村	yuan cun	1
+棠东	tang dong	1
+黄村	huang cun	1
+苏元	su yuan	1
+水西	shui xi	1
+长平	zhang ping	1
+金坑	jin keng	1
+镇龙	zhen long	1
+中新	zhong xin	1
+坑贝	keng bei	1
+凤岗	feng gang	1
+朱村	zhu cun	1
+山田	shan tian	1
+钟岗	zhong gang	1
+东平	dong ping	1
+澜石	lan shi	1
+祖庙	zu miao	1
+朝安	chao an	1
+桂城	gui cheng	1
+礌岗	lei gang	1
+龙溪	long xi	1
+菊树	ju shu	1
+西塱	xi lang	1
+鹤洞	he dong	1
+沙涌	sha yong	1
+沙园	sha yuan	1
+燕岗	yan gang	1
+石溪	shi xi	1
+南洲	nan zhou	1
+沥滘	li jiao	1
+南风	nan feng	1
+琶醍	pa ti	1
+金隆	jin long	1
+广隆	guang long	1
+大涌	da yong	1
+塘坑	tang keng	1
+五山	wu shan	1
+华师	hua shi	1
+岗顶	gang ding	1
+寺右	si you	1
+东湖	dong hu	1
+中大	zhong da	1
+瑞宝	rui bao	1
+石溪	shi xi	1
+东沙	dong sha	1
+芳村	fang cun	1
+沙涌	sha yong	1
+鹤洞	he dong	1
+燕岗	yan gang	1
+大塘	da tang	1
+琶洲	pa zhou	1
+员村	yuan cun	1
+华师	hua shi	1
+沙河	sha he	1
+槎头	cha tou	1
+东湖	dong hu	1
+客村	ke cun	1
+官洲	guan zhou	1
+沙湾	sha wan	1
+淘金	tao jin	1
+金门	jin men	1
+芒山	mang shan	1
+南横	nan heng	1
+石下	shi xia	1
+横沥	heng li	1
+灵山	ling shan	1
+亭角	ting jiao	1
+蕉门	jiao men	1
+新塘	xin tang	1
+白石	bai shi	1
+仙村	xian cun	1
+石滩	shi tan	1
+荔城	li cheng	1
+紫坭	zi ni	1
+沙湾	sha wan	1
+傍西	bang xi	1
+莲塘	lian tang	1
+石基	shi ji	1
+石楼	shi lou	1
+冼村	xian cun	1
+龙潭	long tan	1
+沙溪	sha xi	1
+横沥	heng li	1
+茶滘	cha jiao	1
+芳村	fang cun	1
+潭村	tan cun	1
+暨大	ji da	1
+广棠	guang tang	1
+芳村	fang cun	1
+西塱	xi lang	1
+南漖	nan jiao	1
+番福	fan fu	1
+东山口	dong shan kou	1
+农讲所	nong jiang suo	1
+公园前	gong yuan qian	1
+西门口	xi men kou	1
+陈家祠	chen jia ci	1
+长寿路	chang shou lu	1
+花地湾	hua di wan	1
+东晓南	dong xiao nan	1
+江泰路	jiang tai lu	1
+江南西	jiang nan xi	1
+市二宫	shi er gong	1
+公园前	gong yuan qian	1
+纪念堂	ji nian tang	1
+三元里	san yuan li	1
+梅花园	mei hua yuan	1
+林和西	lin he xi	1
+石牌桥	shi pai qiao	1
+广州塔	guang zhou ta	1
+车陂南	che bei nan	1
+万胜围	wan sheng wei	1
+飞沙角	fei sha jiao	1
+中山八	zhong shan ba	1
+动物园	dong wu yuan	1
+五羊邨	wu yang cun	1
+科韵路	ke yun lu	1
+车陂南	che bei nan	1
+大沙地	da sha di	1
+大沙东	da sha dong	1
+浔峰岗	xun feng gang	1
+如意坊	ru yi fang	1
+一德路	yi de lu	1
+北京路	bei jing lu	1
+东山口	dong shan kou	1
+黄花岗	huang hua gang	1
+沙河顶	sha he ding	1
+天平架	tian ping jia	1
+植物园	zhi wu yuan	1
+柯木塱	ke mu lang	1
+高塘石	gao tang shi	1
+鹅掌坦	e zhang tan	1
+陈家祠	chen jia ci	1
+华林寺	hua lin si	1
+同福西	tong fu xi	1
+磨碟沙	mo die sha	1
+新港东	xin gang dong	1
+万胜围	wan sheng wei	1
+飞鹅岭	fei e ling	1
+花城路	hua cheng lu	1
+裕丰围	yu feng wei	1
+知识城	zhi shi cheng	1
+何棠下	he tang xia	1
+镇龙北	zhen long bei	1
+钟落潭	zhong luo tan	1
+神舟路	shen zhou lu	1
+科学城	ke xue cheng	1
+镇龙西	zhen long xi	1
+林和西	lin he xi	1
+天河南	tian he nan	1
+海心沙	hai xin sha	1
+广州塔	guang zhou ta	1
+新城东	xin cheng dong	1
+世纪莲	shi ji lian	1
+魁奇路	kui qi lu	1
+季华园	ji hua yuan	1
+同济路	tong ji lu	1
+南桂路	nan gui lu	1
+千灯湖	qian deng hu	1
+琶醍塔	pa ti ta	1
+会展东	hui zhan dong	1
+会展中	hui zhan zhong	1
+会展西	hui zhan xi	1
+资讯园	zi xun yuan	1
+石牌桥	shi pai qiao	1
+东晓南	dong xiao nan	1
+流花路	liu hua lu	1
+彩虹桥	cai hong qiao	1
+中山八	zhong shan ba	1
+如意坊	ru yi fang	1
+石围塘	shi wei tang	1
+港务局	gang wu ju	1
+南石路	nan shi lu	1
+江泰路	jiang tai lu	1
+瑞宝乡	rui bao xiang	1
+轻纺城	qing fang cheng	1
+石榴岗	shi liu gang	1
+赤沙滘	chi sha jiao	1
+邮科所	you ke suo	1
+天河东	tian he dong	1
+田心村	tian xin cun	1
+梓元岗	zi yuan gang	1
+莲花山	lian hua shan	1
+东瓜宇	dong gua yu	1
+蝴蝶州	hu die zhou	1
+南北台	nan bei tai	1
+万顷沙	wan qing sha	1
+宝城围	bao cheng wei	1
+炮台山	pao tai shan	1
+沙湾南	sha wan nan	1
+福德路	fu de lu	1
+石基东	shi ji dong	1
+莲花山	lian hua shan	1
+磨碟沙	mo die sha	1
+万顷沙	wan qing sha	1
+穗盐路	sui yan lu	1
+市二宫	shi er gong	1
+仲恺路	zhong kai lu	1
+下渡路	xia du lu	1
+农科院	nong ke yuan	1
+车陂西	che bei xi	1
+奥体东	ao ti dong	1
+南浦西	nan pu xi	1
+陈头岗	chen tou gang	1
+广州东站	guang zhou dong zhan	1
+体育中心	ti yu zhong xin	1
+体育西路	ti yu xi lu	1
+烈士陵园	lie shi ling yuan	1
+广州南站	guang zhou nan zhan	1
+海珠广场	hai zhu guang chang	1
+越秀公园	yue xiu gong yuan	1
+飞翔公园	fei xiang gong yuan	1
+白云公园	bai yun gong yuan	1
+嘉禾望岗	jia he wang gang	1
+嘉禾望岗	jia he wang gang	1
+广州东站	guang zhou dong zhan	1
+体育西路	ti yu xi lu	1
+体育西路	ti yu xi lu	1
+珠江新城	zhu jiang xin cheng	1
+汉溪长隆	han xi zhang long	1
+番禺广场	fan yu guang chang	1
+大学城北	da xue cheng bei	1
+大学城南	da xue cheng nan	1
+珠江新城	zhu jiang xin cheng	1
+文化公园	wen hua gong yuan	1
+海珠广场	hai zhu guang chang	1
+广州南站	guang zhou nan zhan	1
+汉溪长隆	han xi zhang long	1
+南村万博	nan cun wan bo	1
+大学城南	da xue cheng nan	1
+文化公园	wen hua gong yuan	1
+凤凰新村	feng huang xin cun	1
+宝岗大道	bao gang da dao	1
+广州北站	guang zhou bei zhan	1
+花都广场	hua dou guang chang	1
+南海神庙	nan hai shen miao	1
+嘉禾望岗	jia he wang gang	1
+白云东平	bai yun dong ping	1
+天河公园	tian he gong yuan	1
+大观南路	da guan nan lu	1
+增城广场	zeng cheng guang chang	1
+黄埔大道	huang pu da dao	1
+妇儿中心	fu er zhong xin	1
+花城大道	hua cheng da dao	1
+普君北路	pu jun bei lu	1
+广州塔东	guang zhou ta dong	1
+体育西路	ti yu xi lu	1
+南方报社	nan fang bao she	1
+珠江泳场	zhu jiang yong chang	1
+逸景翠园	yi jing cui yuan	1
+天河公园	tian he gong yuan	1
+广州东站	guang zhou dong zhan	1
+云台花园	yun tai hua yuan	1
+广园新村	guang yuan xin cun	1
+白云新城	bai yun xin cheng	1
+大学城北	da xue cheng bei	1
+大学城南	da xue cheng nan	1
+增城广场	zeng cheng guang chang	1
+番禺广场	fan yu guang chang	1
+广州东站	guang zhou dong zhan	1
+南村万博	nan cun wan bo	1
+番禺广场	fan yu guang chang	1
+海幢公园	hai zhuang gong yuan	1
+珠江泳场	zhu jiang yong chang	1
+磨碟沙北	mo die sha bei	1
+汇景新城	hui jing xin cheng	1
+世界大观	shi jie da guan	1
+广州南站	guang zhou nan zhan	1
+番禺广场	fan yu guang chang	1
+广州火车站	guang zhou huo che zhan	1
+白云大道北	bai yun da dao bei	1
+天河客运站	tian he ke yun zhan	1
+黄阁汽车城	huang ge qi che cheng	1
+南沙客运港	nan sha ke yun gang	1
+广州火车站	guang zhou huo che zhan	1
+团一大广场	tuan yi da guang chang	1
+天河客运站	tian he ke yun zhan	1
+花都汽车城	hua dou qi che cheng	1
+花果山公园	hua guo shan gong yuan	1
+马鞍山公园	ma an shan gong yuan	1
+从化客运站	cong hua ke yun zhan	1
+天河智慧城	tian he zhi hui cheng	1
+体育中心南	ti yu zhong xin nan	1
+金融高新区	jin rong gao xin qu	1
+琶洲大桥南	pa zhou da qiao nan	1
+猎德大桥南	lie de da qiao nan	1
+南沙客运港	nan sha ke yun gang	1
+天河客运站	tian he ke yun zhan	1
+广州火车站	guang zhou huo che zhan	1
+南沙客运港	nan sha ke yun gang	1
+中山大道西	zhong shan da dao xi	1
+白云文化广场	bai yun wen hua guang chang	1
+京溪南方医院	jing xi nan fang yi yuan	1
+大剧院	da ju yuan	1
+广州塔	guang zhou ta	1
+赤岗塔	chi gang ta	1
+万胜围	wan sheng wei	1
+广州塔	guang zhou ta	1
