@@ -1,0 +1,168 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime 词库扩展计划」
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.city.kunming.subway
+version: "2021.05.06"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+福德	fu de	1
+斗南	dou nan	1
+北辰	bei chen	1
+金星	jin xing	1
+石咀	shi ju	1
+岷山	min shan	1
+西苑	xi yuan	1
+虹桥	hong qiao	1
+小屯	xiao tun	1
+菊华	ju hua	1
+广卫	guang wei	1
+塔密	ta mi	1
+古城	gu cheng	1
+岔街	cha jie	1
+翠湖	cui hu	1
+南亚	nan ya	1
+七甸	qi dian	1
+晋城	jin cheng	1
+澄江	cheng jiang	1
+杨桥	yang qiao	1
+日新路	ri xin lu	1
+巫家坝	wu jia ba	1
+晓东村	xiao dong cun	1
+珥季路	er ji lu	1
+星耀路	xing yao lu	1
+春融街	chun rong jie	1
+驼峰街	tuo feng jie	1
+联大街	lian da jie	1
+大学城	da xue cheng	1
+宜和路	yi he lu	1
+白龙潭	bai long tan	1
+龙头街	long tou jie	1
+司家营	si jia ying	1
+羊肠村	yang chang cun	1
+霖雨桥	lin yu qiao	1
+白云路	bai yun lu	1
+交三桥	jiao san qiao	1
+塘子巷	tang zi xiang	1
+车家壁	che jia bi	1
+普坪村	pu ping cun	1
+大渔路	da yu lu	1
+梁家河	liang jia he	1
+潘家湾	pan jia wan	1
+五一路	wu yi lu	1
+大树营	da shu ying	1
+金马寺	jin ma si	1
+太平村	tai ping cun	1
+金川路	jin chuan lu	1
+大河梗	da he geng	1
+海屯路	hai tun lu	1
+苏家塘	su jia tang	1
+小菜园	xiao cai yuan	1
+白龙路	bai long lu	1
+菊花村	ju hua cun	1
+和甸营	he dian ying	1
+牛街庄	niu jie zhuang	1
+朱家村	zhu jia cun	1
+羊甫头	yang fu tou	1
+玉缘路	yu yuan lu	1
+金桂街	jin gui jie	1
+梅子村	mei zi cun	1
+可乐村	ke le cun	1
+祥丰街	xiang feng jie	1
+牛头山	niu tou shan	1
+吴家营	wu jia ying	1
+东郊路	dong jiao lu	1
+大板桥	da ban qiao	1
+机场前	ji chang qian	1
+世博园	shi bo yuan	1
+白龙寺	bai long si	1
+弥勒寺	mi le si	1
+省政协	sheng zheng xie	1
+大坝村	da ba cun	1
+云天化	yun tian hua	1
+苏王村	su wang cun	1
+大塘子	da tang zi	1
+黑林铺	hei lin pu	1
+沙沟尾	sha gou wei	1
+田家地	tian jia di	1
+前兴路	qian xing lu	1
+大商汇	da shang hui	1
+大水田	da shui tian	1
+龙泉路	long quan lu	1
+穿金路	chuan jin lu	1
+火车东	huo che dong	1
+三家村	san jia cun	1
+丁家村	ding jia cun	1
+福保东	fu bao dong	1
+昆明南	kun ming nan	1
+园宝村	yuan bao cun	1
+马金铺	ma jin pu	1
+白云村	bai yun cun	1
+晋城北	jin cheng bei	1
+产业园	chan ye yuan	1
+晋城南	jin cheng nan	1
+钟贵村	zhong gui cun	1
+石寨山	shi zhai shan	1
+环城南路	huan cheng nan lu	1
+昌宏西路	chang hong xi lu	1
+谊康南路	yi kang nan lu	1
+大学城南	da xue cheng nan	1
+火车北站	huo che bei zhan	1
+穿心鼓楼	chuan xin gu lou	1
+东风广场	dong feng guang chang	1
+西山公园	xi shan gong yuan	1
+昌源中路	chang yuan zhong lu	1
+市体育馆	shi ti yu guan	1
+机场中心	ji chang zhong xin	1
+省博物馆	sheng bo wu guan	1
+青少年宫	qing shao nian gong	1
+红塔东路	hong ta dong lu	1
+环湖东路	huan hu dong lu	1
+普吉立交	pu ji li jiao	1
+官南广福	guan nan guang fu	1
+昌宏广福	chang hong guang fu	1
+世纪城西	shi ji cheng xi	1
+官渡古镇	guan du gu zhen	1
+体育城南	ti yu cheng nan	1
+果林水库	guo lin shui ku	1
+小康大道	xiao kang da dao	1
+昆曲高速	kun qu gao su	1
+西南林大	xi nan lin da	1
+金沙小区	jin sha xiao qu	1
+大板桥北	da ban qiao bei	1
+景明南路	jing ming nan lu	1
+广电传媒	guang dian chuan mei	1
+公园北路	gong yuan bei lu	1
+公园南路	gong yuan nan lu	1
+马金铺东	ma jin pu dong	1
+昆明火车站	kun ming huo che zhan	1
+南部汽车站	nan bu qi che zhan	1
+北部汽车站	bei bu qi che zhan	1
+西部汽车站	xi bu qi che zhan	1
+拓东体育馆	tuo dong ti yu guan	1
+东部汽车站	dong bu qi che zhan	1
+金鼎山北路	jin ding shan bei lu	1
+石闸立交桥	shi zha li jiao qiao	1
+昆明动物园	kun ming dong wu yuan	1
+五华体育馆	wu hua ti yu guan	1
+庄家塘立交	zhuang jia tang li jiao	1
+北部客运站	bei bu ke yun zhan	1
+新亚洲体育城	xin ya zhou ti yu cheng	1
+市级行政中心	shi ji xing zheng zhong xin	1
+昆明南火车站	kun ming nan huo che zhan	1
+关上森林公园	guan shang sen lin gong yuan	1
+五甲塘湿地公园	wu jia tang shi di gong yuan	1
+西北部汽车客运站	xi bei bu qi che ke yun zhan	1
