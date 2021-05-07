@@ -1,0 +1,73 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime 词库扩展计划」
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.city.xiamen.subway
+version: "2021.05.07"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+文灶	wen zao	1
+莲坂	lian ban	1
+吕厝	lv cuo	1
+塘边	tang bian	1
+殿前	dian qian	1
+高崎	gao qi	1
+官任	guan ren	1
+岩内	yan nei	1
+东孚	dong fu	1
+新垵	xin an	1
+江头	jiang tou	1
+后埔	hou pu	1
+蔡塘	cai tang	1
+岭兜	ling dou	1
+何厝	he cuo	1
+东宅	dong zhai	1
+五通	wu tong	1
+钟宅	zhong zhai	1
+镇海路	zhen hai lu	1
+将军祠	jiang jun ci	1
+乌石浦	wu shi pu	1
+火炬园	huo ju yuan	1
+园博苑	yuan bo yuan	1
+杏林村	xing lin cun	1
+杏锦路	xing jin lu	1
+天水路	tian shui lu	1
+厦门北	sha men bei	1
+天竺山	tian zhu shan	1
+翁角路	weng jiao lu	1
+马青路	ma qing lu	1
+建业路	jian ye lu	1
+古地石	gu di shi	1
+观音山	guan yin shan	1
+五缘湾	wu yuan wan	1
+中山公园	zhong shan gong yuan	1
+湖滨东路	hu bin dong lu	1
+莲花路口	lian hua lu kou	1
+集美学村	ji mei xue cun	1
+诚毅广场	cheng yi guang chang	1
+集美大道	ji mei da dao	1
+新阳大道	xin yang da dao	1
+邮轮中心	you lun zhong xin	1
+湖滨中路	hu bin zhong lu	1
+体育中心	ti yu zhong xin	1
+育秀东路	yu xiu dong lu	1
+湿地公园	shi di gong yuan	1
+集美软件园	ji mei ruan jian yuan	1
+海沧湾公园	hai cang wan gong yuan	1
+软件园二期	ruan jian yuan er qi	1
+海沧行政中心	hai cang xing zheng zhong xin	1
+海沧商务中心	hai cang shang wu zhong xin	1
+两岸金融中心	liang an jin rong zhong xin	1
