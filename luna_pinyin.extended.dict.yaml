@@ -20,4 +20,5 @@ import_tables:
   - luna_pinyin.city.kunming.subway                             # 城市计划 - 昆明   - 地铁
   - luna_pinyin.city.dalian.subway                              # 城市计划 - 大连   - 地铁
   - luna_pinyin.city.xiamen.subway                              # 城市计划 - 厦门   - 地铁
+  - luna_pinyin.city.chendu.subway                              # 城市计划 - 成都   - 地铁
 ...
