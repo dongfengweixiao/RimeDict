@@ -1,0 +1,104 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime 词库扩展计划」
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.city.dalian.subway
+version: "2021.05.07"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+姚家	yao jia	1
+春柳	chun liu	1
+河口	he kou	1
+机场	ji chang	1
+湾家	wan jia	1
+东港	dong gang	1
+东海	dong hai	1
+九里	jiu li	1
+泉水	quan shui	1
+后盐	hou yan	1
+铁山	tie shan	1
+旅顺	lv shun	1
+石河	shi he	1
+寺沟	si gou	1
+华北路	hua bei lu	1
+华南北	hua nan bei	1
+千山路	qian shan lu	1
+松江路	song jiang lu	1
+东纬路	dong wei lu	1
+香工街	xiang gong jie	1
+中长街	zhong chang jie	1
+兴工街	xing gong jie	1
+西安路	xi an lu	1
+富国街	fu guo jie	1
+黑石礁	hei shi jiao	1
+七贤岭	qi xian ling	1
+辛寨子	xin zhai zi	1
+虹港路	hong gang lu	1
+虹锦路	hong jin lu	1
+辽师大	liao shi da	1
+联合路	lian he lu	1
+海之韵	hai zhi yun	1
+十九局	shi jiu ju	1
+和平路	he ping lu	1
+东山路	dong shan lu	1
+通世泰	tong shi tai	1
+开发区	kai fa qu	1
+香炉礁	xiang lu jiao	1
+金家街	jin jia jie	1
+大连湾	da lian wan	1
+金马路	jin ma lu	1
+保税区	bao shui qu	1
+小窑湾	xiao yao wan	1
+金石滩	jin shi tan	1
+塔河湾	ta he wan	1
+龙王塘	long wang tang	1
+黄泥川	huang ni chuan	1
+蔡大岭	cai da ling	1
+十三里	shi san li	1
+长店堡	zhang dian bao	1
+挂符桥	gua fu qiao	1
+平安河	ping an he	1
+兴中路	xing zhong lu	1
+振兴路	zhen xing lu	1
+高新园	gao xin yuan	1
+李塘沟	li tang gou	1
+山川柳	shan chuan liu	1
+大学城	da xue cheng	1
+郭水路	guo shui lu	1
+石板桥	shi ban qiao	1
+大连北站	da lian bei zhan	1
+华南广场	hua nan guang chang	1
+会展中心	hui zhan zhong xin	1
+星海广场	xing hai guang chang	1
+大医二院	da yi er yuan	1
+学苑广场	xue yuan guang chang	1
+海事大学	hai shi da xue	1
+红旗西路	hong qi xi lu	1
+马栏广场	ma lan guang chang	1
+交通大学	jiao tong da xue	1
+人民广场	ren min guang chang	1
+一二九街	yi er jiu jie	1
+青泥洼桥	qing ni wa qiao	1
+友好广场	you hao guang chang	1
+中山广场	zhong shan guang chang	1
+港湾广场	gang wan guang chang	1
+会议中心	hui yi zhong xin	1
+鸿玮澜山	hong wei lan shan	1
+旅顺新港	lv shun xin gang	1
+二十里堡	er shi li bao	1
+三十里堡	san shi li bao	1
+公交总站	gong jiao zong zhan	1
+大连火车站	da lian huo che zhan	1
