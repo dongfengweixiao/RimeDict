@@ -16,6 +16,7 @@ import_tables:
   - luna_pinyin.city.guangzhou.subway                           # 城市计划 - 广州   - 地铁
   - luna_pinyin.city.hangzhou.subway                            # 城市计划 - 杭州   - 地铁
   - luna_pinyin.city.kunming.subway                             # 城市计划 - 昆明   - 地铁
+  - luna_pinyin.city.lanzhou.subway                             # 城市计划 - 兰州   - 地铁
   - luna_pinyin.city.nanjing.subway                             # 城市计划 - 南京   - 地铁
   - luna_pinyin.city.shanghai.subway                            # 城市计划 - 上海   - 地铁
   - luna_pinyin.city.shanghai.bus                               # 城市计划 - 上海   - 公交

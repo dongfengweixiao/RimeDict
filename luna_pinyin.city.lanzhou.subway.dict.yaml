@@ -1,0 +1,42 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime 词库扩展计划」
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.city.lanzhou.subway
+version: "2021.05.07"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+东岗	dong gang	1
+焦家湾	jiao jia wan	1
+拱星墩	gong xing dun	1
+省气象局	sheng qi xiang ju	1
+五里铺	wu li pu	1
+兰州大学	lan zhou da xue	1
+东方红广场	dong fang hong guang chang	1
+省政府	sheng zheng fu	1
+西关	xi guan	1
+文化宫	wen hua gong	1
+小西湖	xiao xi hu	1
+七里河	qi li he	1
+西站什字	xi zhan shen zi	1
+兰州西站北广场	lan zhou xi zhan bei guang chang	1
+土门墩	tu men dun	1
+马滩	ma tan	1
+兰州海关	lan zhou hai guan	1
+兰州城市学院	lan zhou cheng shi xue yuan	1
+省科技馆	sheng ke ji guan	1
+深安大桥南站	shen an da qiao nan zhan	1
+陈官营	chen guan ying	1
