@@ -1,0 +1,176 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime 词库扩展计划」
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.city.suzhou.subway
+version: "2021.05.10"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+木渎	mu du	1
+乐桥	le qiao	1
+相门	xiang men	1
+骑河	qi he	1
+大湾	da wan	1
+蠡口	li kou	1
+陆慕	lu mu	1
+石路	shi lu	1
+友联	you lian	1
+郭巷	guo xiang	1
+长亭	zhang ting	1
+铜墩	tong dun	1
+何山	he shan	1
+横山	heng shan	1
+横塘	heng tang	1
+新郭	xin guo	1
+倪浜	ni bang	1
+唐庄	tang zhuang	1
+跨塘	kua tang	1
+唯亭	wei ting	1
+红庄	hong zhuang	1
+蠡墅	li shu	1
+越溪	yue xi	1
+木里	mu li	1
+张庄	zhang zhuang	1
+姚祥	yao xiang	1
+苏锦	su jin	1
+南门	nan men	1
+花港	hua gang	1
+同里	tong li	1
+长塘	zhang tang	1
+东渚	dong zhu	1
+半浜	ban bang	1
+上场	shang chang	1
+马涧	ma jian	1
+塘南	tang nan	1
+浮桥	fu qiao	1
+黄潦	huang liao	1
+金枫路	jin feng lu	1
+汾湖路	fen hu lu	1
+玉山路	yu shan lu	1
+狮子山	shi zi shan	1
+塔园路	ta yuan lu	1
+滨河路	bin he lu	1
+西环路	xi huan lu	1
+养育巷	yang yu xiang	1
+临顿路	lin dun lu	1
+东环路	dong huan lu	1
+星湖街	xing hu jie	1
+南施街	nan shi jie	1
+星塘街	xing tang jie	1
+钟南街	zhong nan jie	1
+富翔路	fu xiang lu	1
+富元路	fu yuan lu	1
+徐图港	xu tu gang	1
+平河路	ping he lu	1
+山塘街	shan tang jie	1
+劳动路	lao dong lu	1
+胥江路	xu jiang lu	1
+盘蠡路	pan li lu	1
+新家桥	xin jia qiao	1
+尹中路	yin zhong lu	1
+郭苑路	guo yuan lu	1
+尹山湖	yin shan hu	1
+月亮湾	yue liang wan	1
+松涛街	song tao jie	1
+金谷路	jin gu lu	1
+金尚路	jin shang lu	1
+桑田岛	sang tian dao	1
+惠昌路	hui chang lu	1
+文昌路	wen chang lu	1
+马运路	ma yun lu	1
+西津桥	xi jin qiao	1
+狮山路	shi shan lu	1
+沙金桥	sha jin qiao	1
+石湖北	shi hu bei	1
+宝带路	bao dai lu	1
+迎春路	ying chun lu	1
+北港路	bei gang lu	1
+东振路	dong zhen lu	1
+金厍桥	jin she qiao	1
+烟雨桥	yan yu qiao	1
+方湾街	fang wan jie	1
+丰和路	feng he lu	1
+双马街	shuang ma jie	1
+戈巷街	ge xiang jie	1
+文溪路	wen xi lu	1
+龙道浜	long dao bang	1
+活力岛	huo li dao	1
+北寺塔	bei si ta	1
+察院场	cha yuan chang	1
+三元坊	san yuan fang	1
+团结桥	tuan jie qiao	1
+清树湾	qing shu wan	1
+流虹路	liu hong lu	1
+笠泽路	li ze lu	1
+顾家荡	gu jia dang	1
+庞金路	pang jin lu	1
+龙塘桥	long tang qiao	1
+陈家沟	chen jia gou	1
+肖家湾	xiao jia wan	1
+华山路	hua shan lu	1
+闻钟苑	wen zhong yuan	1
+虎丘路	hu qiu lu	1
+桃花坞	tao hua wu	1
+拙政园	zhuo zheng yuan	1
+东北街	dong bei jie	1
+苏桐路	su tong lu	1
+伊山湖	yi shan hu	1
+桐泾北路	tong jing bei lu	1
+广济南路	guang ji nan lu	1
+中央公园	zhong yang gong yuan	1
+星海广场	xing hai guang chang	1
+东方之门	dong fang zhi men	1
+时代广场	shi dai guang chang	1
+平泷路东	ping long lu dong	1
+三香广场	san xiang guang chang	1
+桐泾公园	tong jing gong yuan	1
+石湖东路	shi hu dong lu	1
+宝带桥南	bao dai qiao nan	1
+独墅湖南	du shu hu nan	1
+索山桥西	suo shan qiao xi	1
+通园路南	tong yuan lu nan	1
+墅浦路北	shu pu lu bei	1
+李公堤西	li gong di xi	1
+葑亭大道	feng ting da dao	1
+石湖莫舍	shi hu mo she	1
+天鹅荡路	tian e dang lu	1
+苏州湾北	su zhou wan bei	1
+平泷路西	ping long lu xi	1
+人民桥南	ren min qiao nan	1
+江陵西路	jiang ling xi lu	1
+江兴西路	jiang xing xi lu	1
+苏州湾东	su zhou wan dong	1
+松陵大道	song ling da dao	1
+东浜新苑	dong bang xin yuan	1
+马浜花园	ma bang hua yuan	1
+现代大道	xian dai da dao	1
+金鸡湖路	jin ji hu lu	1
+娄葑政府	lou feng zheng fu	1
+群星三路	qun xing san lu	1
+郭巷北路	guo xiang bei lu	1
+阳澄湖中路	yang cheng hu zhong lu	1
+苏州火车站	su zhou huo che zhan	1
+孙武纪念园	sun wu ji nian yuan	1
+吴江汽车站	wu jiang qi che zhan	1
+金鸡湖大道	jin ji hu da dao	1
+文化博览中心	wen hua bo lan zhong xin	1
+高铁苏州北站	gao tie su zhou bei zhan	1
+吴江人民广场	wu jiang ren min guang chang	1
+高铁苏州新区	gao tie su zhou xin qu	1
+独墅湖邻里中心	du shu hu lin li zhong xin	1
+苏州新区火车站	su zhou xin qu huo che zhan	1
+苏州园区火车站	su zhou yuan qu huo che zhan	1
+镇湖西部生态城	zhen hu xi bu sheng tai cheng	1

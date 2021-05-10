@@ -12,6 +12,7 @@ import_tables:
   - luna_pinyin.city.beijing.subway                             # 城市计划 - 北京   - 地铁
   - luna_pinyin.city.beijing.bus                                # 城市计划 - 北京   - 公交
   - luna_pinyin.city.chendu.subway                              # 城市计划 - 成都   - 地铁
+  - luna_pinyin.city.chongqing.subway                           # 城市计划 - 重庆   - 地铁
   - luna_pinyin.city.dalian.subway                              # 城市计划 - 大连   - 地铁
   - luna_pinyin.city.guangzhou.subway                           # 城市计划 - 广州   - 地铁
   - luna_pinyin.city.hangzhou.subway                            # 城市计划 - 杭州   - 地铁
@@ -21,7 +22,10 @@ import_tables:
   - luna_pinyin.city.shanghai.subway                            # 城市计划 - 上海   - 地铁
   - luna_pinyin.city.shanghai.bus                               # 城市计划 - 上海   - 公交
   - luna_pinyin.city.shenyang.subway                            # 城市计划 - 沈阳   - 地铁
+  - luna_pinyin.city.shenzhen.subway                            # 城市计划 - 深圳   - 地铁
+  - luna_pinyin.city.suzhou.subway                              # 城市计划 - 苏州   - 地铁
   - luna_pinyin.city.tianjin.subway                             # 城市计划 - 天津   - 地铁
+  - luna_pinyin.city.wuhan.subway                               # 城市计划 - 武汉   - 地铁
   - luna_pinyin.city.xiamen.subway                              # 城市计划 - 厦门   - 地铁
   - luna_pinyin.city.xian.subway                                # 城市计划 - 西安   - 地铁
 ...

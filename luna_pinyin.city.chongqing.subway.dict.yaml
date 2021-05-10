@@ -1,0 +1,212 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime 词库扩展计划」
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.city.chongqing.subway
+version: "2021.05.10"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+鹅岭	e ling	1
+大坪	da ping	1
+双碑	shuang bei	1
+璧山	bi shan	1
+平安	ping an	1
+建桥	jian qiao	1
+大江	da jiang	1
+鱼洞	yu dong	1
+金竹	jin zhu	1
+花溪	hua xi	1
+麒龙	qi long	1
+二塘	er tang	1
+南坪	nan ping	1
+工贸	gong mao	1
+金渝	jin yu	1
+鸳鸯	yuan yang	1
+翠云	cui yun	1
+回兴	hui xing	1
+双龙	shuang long	1
+碧津	bi jin	1
+莲花	lian hua	1
+头塘	tou tang	1
+寸滩	cun tan	1
+巴山	ba shan	1
+半山	ban shan	1
+跳磴	tiao deng	1
+丹鹤	dan he	1
+重光	zhong guang	1
+人和	ren he	1
+北碚	bei bei	1
+天生	tian sheng	1
+蔡家	cai jia	1
+礼嘉	li jia	1
+康庄	kang zhuang	1
+茶园	cha yuan	1
+悦来	yue lai	1
+思源	si yuan	1
+复兴	fu xing	1
+长河	chang he	1
+鹿山	lu shan	1
+渝鲁	yu lu	1
+涂山	tu shan	1
+仁济	ren ji	1
+上浩	shang hao	1
+南湖	nan hu	1
+二郎	er lang	1
+华龙	hua long	1
+上桥	shang qiao	1
+朝天门	chao tian men	1
+小什字	xiao shen zi	1
+较场口	jiao chang kou	1
+七星岗	qi xing gang	1
+两路口	liang lu kou	1
+石油路	shi you lu	1
+歇台子	xie tai zi	1
+石桥铺	shi qiao pu	1
+高庙村	gao miao cun	1
+马家岩	ma jia yan	1
+小龙坎	xiao long kan	1
+沙坪坝	sha ping ba	1
+杨公桥	yang gong qiao	1
+烈士墓	lie shi mu	1
+磁器口	ci qi kou	1
+石井坡	shi jing po	1
+赖家桥	lai jia qiao	1
+微电园	wei dian yuan	1
+陈家桥	chen jia qiao	1
+大学城	da xue cheng	1
+尖顶坡	jian ding po	1
+临江门	lin jiang men	1
+黄花园	huang hua yuan	1
+大溪沟	da xi gou	1
+曾家岩	ceng jia yan	1
+牛角沱	niu jiao tuo	1
+李子坝	li zi ba	1
+佛图关	fo tu guan	1
+袁家岗	yuan jia gang	1
+谢家湾	xie jia wan	1
+杨家坪	yang jia ping	1
+动物园	dong wu yuan	1
+大堰村	da yan cun	1
+马王场	ma wang chang	1
+大渡口	da du kou	1
+新山村	xin shan cun	1
+天堂堡	tian tang bao	1
+金家湾	jin jia wan	1
+刘家坝	liu jia ba	1
+白居寺	bai ju si	1
+鱼胡路	yu hu lu	1
+学堂湾	xue tang wan	1
+大山村	da shan cun	1
+岔路口	cha lu kou	1
+九公里	jiu gong li	1
+八公里	ba gong li	1
+六公里	liu gong li	1
+五公里	wu gong li	1
+四公里	si gong li	1
+铜元局	tong yuan ju	1
+华新街	hua xin jie	1
+观音桥	guan yin qiao	1
+嘉州路	jia zhou lu	1
+狮子坪	shi zi ping	1
+龙头寺	long tou si	1
+金童路	jin tong lu	1
+园博园	yuan bo yuan	1
+长福路	zhang fu lu	1
+双凤桥	shuang feng qiao	1
+高堡湖	gao bao hu	1
+观月路	guan yue lu	1
+举人坝	ju ren ba	1
+保税港	bao shui gang	1
+黑石子	hei shi zi	1
+太平冲	tai ping chong	1
+唐家沱	tang jia tuo	1
+石新路	shi xin lu	1
+凤西路	feng xi lu	1
+华岩寺	hua yan si	1
+华成路	hua cheng lu	1
+中梁山	zhong liang shan	1
+金建路	jin jian lu	1
+湖霞街	hu xia jie	1
+和睦路	he mu lu	1
+冉家坝	ran jia ba	1
+大龙山	da long shan	1
+大石坝	da shi ba	1
+状元碑	zhuang yuan bei	1
+龙凤溪	long feng xi	1
+向家岗	xiang jia gang	1
+曹家湾	cao jia wan	1
+金山寺	jin shan si	1
+九曲河	jiu qu he	1
+大竹林	da zhu lin	1
+光电园	guang dian yuan	1
+花卉园	hua hui yuan	1
+黄泥塝	huang ni bang	1
+红土地	hong tu di	1
+五里店	wu li dian	1
+江北城	jiang bei cheng	1
+大剧院	da ju yuan	1
+上新街	shang xin jie	1
+刘家坪	liu jia ping	1
+长生桥	chang sheng qiao	1
+邱家湾	qiu jia wan	1
+欢乐谷	huan le gu	1
+黄茅坪	huang mao ping	1
+高义口	gao yi kou	1
+王家庄	wang jia zhuang	1
+清溪河	qing xi he	1
+红岩坪	hong yan ping	1
+沙河坝	sha he ba	1
+鲤鱼池	li yu chi	1
+三亚湾	san ya wan	1
+上湾路	shang wan lu	1
+天星桥	tian xing qiao	1
+玉带山	yu dai shan	1
+南桥寺	nan qiao si	1
+弹子石	dan zi shi	1
+海棠溪	hai tang xi	1
+罗家坝	luo jia ba	1
+海峡路	hai xia lu	1
+陈家坪	chen jia ping	1
+彩云湖	cai yun hu	1
+凤鸣山	feng ming shan	1
+红旗河沟	hong qi he gou	1
+郑家院子	zheng jia yuan zi	1
+唐家院子	tang jia yuan zi	1
+童家院子	tong jia yuan zi	1
+空港广场	kong gang guang chang	1
+民安大道	min an da dao	1
+重庆西站	chong qing xi zhan	1
+华岩中心	hua yan zhong xin	1
+园博中心	yuan bo zhong xin	1
+幸福广场	xing fu guang chang	1
+国博中心	guo bo zhong xin	1
+刘家院子	liu jia yuan zi	1
+民心佳园	min xin jia yuan	1
+环山公园	huan shan gong yuan	1
+渝北广场	yu bei guang chang	1
+中央公园	zhong yang gong yuan	1
+重庆大学	chong qing da xue	1
+体育公园	ti yu gong yuan	1
+动步公园	dong bu gong yuan	1
+洪湖东路	hong hu dong lu	1
+奥体中心	ao ti zhong xin	1
+龙头寺公园	long tou si gong yuan	1
+中央公园东	zhong yang gong yuan dong	1
+中央公园西	zhong yang gong yuan xi	1
+重庆图书馆	chong qing tu shu guan	1
+重庆北站南广场	chong qing bei zhan nan guang chang	1
+重庆北站北广场	chong qing bei zhan bei guang chang	1
+江北机场	jiang bei ji chang	1
